@@ -16,6 +16,7 @@ test('dropdown', { tag: '@drop' }, async ({ page }) => {
     }
     await dropdownCountry.selectOption({ index: 10 });
     await dropdownCountry.selectOption({ value: 'AF' });
+    console.log("end")
 
 
 
