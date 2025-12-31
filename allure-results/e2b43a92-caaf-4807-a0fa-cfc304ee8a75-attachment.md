@@ -1,0 +1,2763 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - generic [ref=e4]:
+      - generic [ref=e5]:
+        - generic:
+          - generic:
+            - list:
+              - listitem [ref=e6]:
+                - link "" [ref=e7] [cursor=pointer]:
+                  - /url: https://www.facebook.com/HYRTutorials/
+              - listitem [ref=e8]:
+                - link "" [ref=e9] [cursor=pointer]:
+                  - /url: https://twitter.com/hyrtutorials
+              - listitem [ref=e10]:
+                - link "" [ref=e11] [cursor=pointer]:
+                  - /url: https://github.com/YadaGiriReddy/
+              - listitem [ref=e12]:
+                - link "" [ref=e13] [cursor=pointer]:
+                  - /url: https://www.instagram.com/hyrtutorials/
+              - listitem [ref=e14]:
+                - link "" [ref=e15] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/hyrtutorials/
+              - listitem [ref=e16]:
+                - link "" [ref=e17] [cursor=pointer]:
+                  - /url: https://www.youtube.com/hyrtutorials
+      - list [ref=e23]:
+        - listitem [ref=e24]:
+          - generic [ref=e25]: 
+          - text: Dec 23, 2025
+        - listitem [ref=e26]:
+          - link "Home" [ref=e27] [cursor=pointer]:
+            - /url: https://www.hyrtutorials.com
+        - listitem [ref=e28]:
+          - link "Contact" [ref=e29] [cursor=pointer]:
+            - /url: https://www.hyrtutorials.com/p/contactus.html
+    - generic [ref=e31]:
+      - link "HYR" [ref=e36] [cursor=pointer]:
+        - /url: https://www.hyrtutorials.com/
+        - img "HYR" [ref=e37]
+      - insertion [ref=e42]:
+        - iframe [ref=e44]:
+          - generic [active] [ref=f6e1]:
+            - link "CKC Laboratories Inc Military EMC Testing OPEN" [ref=f6e6] [cursor=pointer]:
+              - /url: https://googleads.g.doubleclick.net/aclk?nis=4&sa=l&ai=CahXwfWxLaczNEvrA998Pg-HyiQmwuN_sgwG0neWEgBTAjbcBEAEgmKjGcGDJ5uOGyKOQGaABr8_0kEDIAQGoAwHIA8sEqgSlAk_QQMURZ_5OR_OkFuECvCo4HpltM-GDLEtPGd_LaJaD31Zgl5oV2jNoAxVcZgLkp-fkJi9iIkJ140t7lggcBGqMw_kCNfjAzEtnpySGVShWwygAjB4bVkB95rn9HyJQFQeBkt8cfTxotPvFDjv8oNgnqyQ0fyM40jRvBSglspdjryp2C2UVOcjsgfRd6jjutNI1N2tQvYpQpVnGK5-Ec2himmeEdNSP98NgwcREN7SC2ZjstWFWwFXI3LMksbw9Q2FCiOeOa4QxLso5Oo2UbwIJ2GoWzU2p5ibIc2OFWrViObKAnBjElMhxXI2iIUOrsyDDGDoBy7UO7UeGruDGqJlk0ZzdWX-Ak9jWVK_y8Mc8ikaGThUz6Q-jkbsiaBQWaYdg0SQHwATs-JDIqwWIBb_srN1UgAevh8XwGqgHp8yxAqgHpr4bqAfMzrECqAfz0RuoB5bYG6gHqpuxAqgHjs4bqAeT2BuoB_DgG6gH7paxAqgH_p6xAqgHr76xAqgH1ckbqAfZtrECqAeaBqgH_56xAqgH35-xAqgHyqmxAqgH66WxAqgH6rGxAqgHmbWxAqgHvrexAqgH-MKxAqgH-8KxAqgHwsixAtgHAdIILwiAYRABGJ8DMgiKgoCAgICACDoNgECAwICAgICogAKoA0i9_cE6WPnmq4Gy1ZEDsQm6fDjNxv-3poAKAYoKO2h0dHA6Ly93d3cuY2tjLmNvbS8_Z2FkX3NvdXJjZT01JmdhZF9jYW1wYWlnbmlkPTIyNzQ0MzQ4MjIzmAsByAsB4AsB2gwQCgoQoPiToa_JiZZpEgIBA6oNAlVTyA0B6g0TCNKeuYGy1ZEDFXrg_QUdg7A8kfANAogOCdgTCtAVAcoWAgoA-BYBgBcBshcOGAEqCjk4NDM2NDQ5NzK6FwI4AaoYFwkAAAAAYCL1QBIKOTg0MzY0NDk3MhgBshgJEgKYaRgBIgEA0BgBwhkCCAE&ae=1&ase=2&gclid=EAIaIQobChMIjICsgbLVkQMVeuD9BR2DsDyREAEYASAAEgKxB_D_BwE&num=1&cid=CAQSvgEAwksa0ZxQCccfiMmmVKoyleqksS_osWOnHUhWjapePDzl-I587OtrSHiQ5U8UWbA14ZTaqowSADCdFXcXZI0rbQ9FCzFoQAT_CQeU5m8411UG-ewFWvnj5I2wphAy-aIwMrzP4Zx2iS0Ft4RPASNws9DVodkPGCQdIeo_WXYGj07gWQUrleCA6BoA8j27_44j56nuZXDTLEZo5oqkIx8sDKwicwPH37X4Ub_mUi8uM7sfMKE2yXEBUsdyDDKoGAE&sig=AOD64_2n0xIDPFwDfNPXqXVF3mY6KaOc0Q&client=ca-pub-2190203024692607&rf=1&nb=2&adurl=https://ckc.com/%3Fgad_source%3D5%26gad_campaignid%3D22744348223%26gclid%3DEAIaIQobChMIjICsgbLVkQMVeuD9BR2DsDyREAEYASAAEgKxB_D_BwE
+              - generic [ref=f6e7]:
+                - generic [ref=f6e10]:
+                  - generic "CKC Laboratories Inc" [ref=f6e11]
+                  - generic "CKC Laboratories Inc" [ref=f6e12]:
+                    - generic [ref=f6e13]: Military EMC Testing
+                - generic [ref=f6e17]:
+                  - generic: OPEN
+                  - img [ref=f6e18]
+            - img [ref=f6e24] [cursor=pointer]
+            - button [ref=f6e27] [cursor=pointer]:
+              - img [ref=f6e28]
+            - iframe
+    - generic [ref=e46]:
+      - listitem [ref=e47]:
+        - link " Home" [ref=e48] [cursor=pointer]:
+          - /url: https://www.hyrtutorials.com/
+          - generic [ref=e49]: 
+          - text: Home
+      - list [ref=e52]:
+        - listitem [ref=e53]:
+          - link "Tech News" [ref=e54] [cursor=pointer]:
+            - /url: https://www.hyrtutorials.com/search/label/TechNews
+        - listitem [ref=e55]:
+          - link "Tutorials " [ref=e56] [cursor=pointer]:
+            - /url: https://www.hyrtutorials.com/search/label/Tutorials
+        - listitem [ref=e57]:
+          - link "YouTube Courses " [ref=e58] [cursor=pointer]:
+            - /url: "#"
+        - listitem [ref=e59]:
+          - link "Selenium Practice " [ref=e60] [cursor=pointer]:
+            - /url: "#"
+        - listitem [ref=e61]:
+          - link "Contact" [ref=e62] [cursor=pointer]:
+            - /url: https://www.hyrtutorials.com/p/contactus.html
+    - generic [ref=e63]:
+      - generic [ref=e70]:
+        - heading "Frames Practice" [level=1] [ref=e73]
+        - article [ref=e74]:
+          - generic [ref=e75]:
+            - generic [ref=e76]: "This page is used for practicing iframes in web automation. We have three types of frames in web applications, those are:"
+            - list [ref=e78]:
+              - listitem [ref=e79]:
+                - text: frame - The
+                - generic [ref=e80]: <frame>
+                - text: tag was used in HTML 4 to define one particular window (frame) within a
+                - generic [ref=e81]: <frameset>
+                - text: .
+              - listitem [ref=e82]:
+                - text: frameset - The
+                - generic [ref=e83]: <frameset>
+                - text: tag was used in HTML 4 to define a frameset.
+              - listitem [ref=e84]:
+                - text: iframe - The
+                - generic [ref=e85]: <iframe>
+                - text: tag specifies an inline frame. An inline frame is used to embed another document within the current HTML document.
+            - generic [ref=e86]: Out of these, frame and frameset were no longer being supported in HTML 5. Below we have three frames to practice.
+            - generic [ref=e87]:
+              - generic [ref=e88]:
+                - paragraph [ref=e89]
+                - paragraph [ref=e90]: This textbox is used for entering the text after switching back from frames.
+                - textbox [ref=e91]
+              - generic [ref=e92]:
+                - heading "Frame1:" [level=3] [ref=e93]
+                - iframe [ref=e94]: <p>Your browser does not support iframes.</p>:
+                  - generic [active] [ref=f16e1]:
+                    - generic [ref=f16e2]:
+                      - generic [ref=f16e4]:
+                        - generic [ref=f16e5]:
+                          - generic:
+                            - generic:
+                              - list:
+                                - listitem [ref=f16e6]:
+                                  - link "" [ref=f16e7] [cursor=pointer]:
+                                    - /url: https://www.facebook.com/HYRTutorials/
+                                - listitem [ref=f16e8]:
+                                  - link "" [ref=f16e9] [cursor=pointer]:
+                                    - /url: https://twitter.com/hyrtutorials
+                                - listitem [ref=f16e10]:
+                                  - link "" [ref=f16e11] [cursor=pointer]:
+                                    - /url: https://github.com/YadaGiriReddy/
+                                - listitem [ref=f16e12]:
+                                  - link "" [ref=f16e13] [cursor=pointer]:
+                                    - /url: https://www.instagram.com/hyrtutorials/
+                                - listitem [ref=f16e14]:
+                                  - link "" [ref=f16e15] [cursor=pointer]:
+                                    - /url: https://www.linkedin.com/company/hyrtutorials/
+                                - listitem [ref=f16e16]:
+                                  - link "" [ref=f16e17] [cursor=pointer]:
+                                    - /url: https://www.youtube.com/hyrtutorials
+                        - generic [ref=f16e22]:
+                          - text: 
+                          - combobox [ref=f16e23]:
+                            - option "Menu" [selected]
+                            - option
+                            - option "Home"
+                            - option "Contact"
+                      - generic [ref=f16e25]:
+                        - link "HYR" [ref=f16e30] [cursor=pointer]:
+                          - /url: https://www.hyrtutorials.com/
+                          - img "HYR" [ref=f16e31]
+                        - insertion [ref=f16e36]
+                      - generic [ref=f16e39]:
+                        - listitem [ref=f16e40]:
+                          - link " Home" [ref=f16e41] [cursor=pointer]:
+                            - /url: https://www.hyrtutorials.com/
+                            - generic [ref=f16e42]: 
+                            - text: Home
+                        - generic [ref=f16e44]:
+                          - text:   
+                          - combobox [ref=f16e45]:
+                            - option "Menu"
+                            - option "Tech News"
+                            - option "Tutorials"
+                            - option "- Dot Net"
+                            - option "- SQL"
+                            - option "- Java"
+                            - option "- Testing"
+                            - option "-- Selenium"
+                            - option "-- Automation Testing"
+                            - option "-- Other"
+                            - option "YouTube Courses"
+                            - option "- English"
+                            - option "-- Apache POI"
+                            - option "-- Apache PDFBox"
+                            - option "-- Core Java"
+                            - option "-- CSS Selectors"
+                            - option "-- Extent Reports"
+                            - option "-- JavaScriptExecutor"
+                            - option "-- TestNG"
+                            - option "-- XPath"
+                            - option "- Telugu"
+                            - option "-- Core Java"
+                            - option "-- Selenium Java"
+                            - option "Selenium Practice"
+                            - option "- Broken Links"
+                            - option "-- Link1"
+                            - option "- CSS Selectors Practice"
+                            - option "- XPath Practice"
+                            - option "- Frames Practice"
+                            - option "- Waits Practice"
+                            - option "- Window Handles"
+                            - option "- Basic Controls"
+                            - option "- Dropdowns" [selected]
+                            - option "- Alerts"
+                            - option "- Calendars Practice"
+                            - option "Contact"
+                      - generic [ref=f16e46]:
+                        - generic [ref=f16e52]:
+                          - heading "HTML Dropdowns" [level=1] [ref=f16e55]
+                          - article [ref=f16e56]:
+                            - generic [ref=f16e58]:
+                              - separator [ref=f16e59]
+                              - generic [ref=f16e60]:
+                                - generic [ref=f16e61]:
+                                  - text: In HTML we have dropdown controls we use very often, There are two types of dropdown available.
+                                  - list [ref=f16e62]:
+                                    - listitem [ref=f16e63]: Single-Selection Dropdown
+                                    - listitem [ref=f16e64]: Muli-Selection Dropdown
+                                  - text: This page can be used for practicing the above controls using selenium.
+                                - separator [ref=f16e65]
+                                - generic [ref=f16e66]: "Course Name:"
+                                - combobox [ref=f16e67]:
+                                  - option "Select" [selected]
+                                  - option "Java"
+                                  - option "Dot Net"
+                                  - option "Python"
+                                  - option "Javascript"
+                                - generic [ref=f16e68]: "IDE Name:"
+                                - listbox [ref=f16e69]:
+                                  - option "Eclipse" [ref=f16e70]
+                                  - option "IntelliJ IDEA" [ref=f16e71]
+                                  - option "Visual Studio" [ref=f16e72]
+                                  - option "NetBeans" [ref=f16e73]
+                                - text: Here the Course Name dropdown is a single-selection dropdown and IDE Name dropdown is a multi-selection dropdown.
+                              - separator [ref=f16e74]
+                        - generic [ref=f16e76]:
+                          - generic [ref=f16e77]:
+                            - generic [ref=f16e78]:
+                              - heading "Support My Work" [level=2] [ref=f16e80]
+                              - link "Buy me a coffee" [ref=f16e83] [cursor=pointer]:
+                                - /url: https://buymeacoffee.com/yadagirireddy
+                                - img [ref=f16e84]
+                                - generic: Buy me a coffee
+                            - generic [ref=f16e99]:
+                              - heading "Subscribe to YouTube channels" [level=2] [ref=f16e101]
+                              - generic [ref=f16e102]:
+                                - iframe [ref=f16e104]:
+                                  - generic [ref=f31e2]:
+                                    - link:
+                                      - /url: /channel/UCzFPWBdClpZ9afmmyhho4Rg
+                                      - img [ref=f31e6] [cursor=pointer]
+                                    - link "H Y R Tutorials" [ref=f31e7] [cursor=pointer]:
+                                      - /url: /channel/UCzFPWBdClpZ9afmmyhho4Rg
+                                    - generic [ref=f31e8]:
+                                      - button "YouTube" [ref=f31e9] [cursor=pointer]:
+                                        - generic "YouTube" [ref=f31e11]
+                                      - button "73K" [ref=f31e12]
+                                - iframe [ref=f16e106]:
+                                  - generic [ref=f32e2]:
+                                    - link:
+                                      - /url: /channel/UC1Bbtdbpfert8leeKx2mssw
+                                      - img [ref=f32e6] [cursor=pointer]
+                                    - link "H Y R Tutorials - Telugu" [ref=f32e7] [cursor=pointer]:
+                                      - /url: /channel/UC1Bbtdbpfert8leeKx2mssw
+                                    - generic [ref=f32e8]:
+                                      - button "YouTube" [ref=f32e9] [cursor=pointer]:
+                                        - generic "YouTube" [ref=f32e11]
+                                      - button "146K" [ref=f32e12]
+                            - generic [ref=f16e107]:
+                              - heading "Telegram" [level=2] [ref=f16e109]
+                              - link "Join Telegram Channel" [ref=f16e111] [cursor=pointer]:
+                                - /url: https://xn--r1a.click/hyrtutorials
+                                - img [ref=f16e112]
+                                - text: Join Telegram Channel
+                            - heading "Facebook" [level=2] [ref=f16e117]
+                            - generic [ref=f16e123]:
+                              - heading "Twitter" [level=2] [ref=f16e125]
+                              - iframe [ref=f16e127]:
+                                - link "Follow @hyrtutorials" [ref=f62e4] [cursor=pointer]:
+                                  - /url: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fwww.hyrtutorials.com%2F&ref_src=twsrc%5Etfw%7Ctwcamp%5Ebuttonembed%7Ctwterm%5Efollow%7Ctwgr%5Ehyrtutorials&region=follow_link&screen_name=hyrtutorials
+                                  - generic [ref=f62e6]: Follow @hyrtutorials
+                          - generic [ref=f16e128]:
+                            - list [ref=f16e129]:
+                              - listitem [ref=f16e130]:
+                                - link "Popular" [ref=f16e131] [cursor=pointer]:
+                                  - /url: "#tabside1"
+                              - listitem [ref=f16e132]:
+                                - link "Recent" [ref=f16e133] [cursor=pointer]:
+                                  - /url: "#tabside2"
+                              - listitem [ref=f16e134]:
+                                - link "Comments" [ref=f16e135] [cursor=pointer]:
+                                  - /url: "#tabside3"
+                            - list [ref=f16e139]:
+                              - listitem [ref=f16e140]:
+                                - generic [ref=f16e141]:
+                                  - link "Arrays%20(Single-dimensional)%20in%20Java" [ref=f16e143] [cursor=pointer]:
+                                    - /url: https://www.hyrtutorials.com/2023/04/arrays-in-java.html
+                                    - img "Arrays%20(Single-dimensional)%20in%20Java" [ref=f16e144]
+                                  - link "Arrays in Java" [ref=f16e146] [cursor=pointer]:
+                                    - /url: https://www.hyrtutorials.com/2023/04/arrays-in-java.html
+                              - listitem [ref=f16e147]:
+                                - generic [ref=f16e148]:
+                                  - link "31" [ref=f16e150] [cursor=pointer]:
+                                    - /url: https://www.hyrtutorials.com/2023/04/print-the-English-Alphabet-in-Upper-case-and-Lower-case.html
+                                    - img "31" [ref=f16e151]
+                                  - link "Write a java program to print the English Alphabet in Upper case and Lower case" [ref=f16e153] [cursor=pointer]:
+                                    - /url: https://www.hyrtutorials.com/2023/04/print-the-English-Alphabet-in-Upper-case-and-Lower-case.html
+                              - listitem [ref=f16e154]:
+                                - generic [ref=f16e155]:
+                                  - link "30" [ref=f16e157] [cursor=pointer]:
+                                    - /url: https://www.hyrtutorials.com/2023/04/factors-of-a-given-number.html
+                                    - img "30" [ref=f16e158]
+                                  - link "Write a java program to print the factors of a given number" [ref=f16e160] [cursor=pointer]:
+                                    - /url: https://www.hyrtutorials.com/2023/04/factors-of-a-given-number.html
+                              - listitem [ref=f16e161]:
+                                - generic [ref=f16e162]:
+                                  - link "Apache+maven" [ref=f16e164] [cursor=pointer]:
+                                    - /url: https://www.hyrtutorials.com/2019/09/maven-uninstallation-on-microsoft.html
+                                    - img "Apache+maven" [ref=f16e165]
+                                  - link "Maven uninstallation on Microsoft Windows" [ref=f16e167] [cursor=pointer]:
+                                    - /url: https://www.hyrtutorials.com/2019/09/maven-uninstallation-on-microsoft.html
+                              - listitem [ref=f16e168]:
+                                - generic [ref=f16e169]:
+                                  - link "Cucumber+Eclipse+pluggin" [ref=f16e171] [cursor=pointer]:
+                                    - /url: https://www.hyrtutorials.com/2019/09/how-to-install-cucumber-eclipse-plugin.html
+                                    - img "Cucumber+Eclipse+pluggin" [ref=f16e172]
+                                  - link "How to install Cucumber Eclipse Plugin" [ref=f16e174] [cursor=pointer]:
+                                    - /url: https://www.hyrtutorials.com/2019/09/how-to-install-cucumber-eclipse-plugin.html
+                            - text:     
+                          - generic [ref=f16e175]:
+                            - generic [ref=f16e176]:
+                              - heading "Archive" [level=2] [ref=f16e178]
+                              - combobox [ref=f16e182]:
+                                - option "Archive" [selected]
+                                - option "April (4)"
+                                - option "March (10)"
+                                - option "February (10)"
+                                - option "January (13)"
+                                - option "December (5)"
+                                - option "October (5)"
+                                - option "September (2)"
+                                - option "June (21)"
+                                - option "May (10)"
+                                - option "April (1)"
+                                - option "March (25)"
+                                - option "February (3)"
+                                - option "January (1)"
+                                - option "July (6)"
+                                - option "June (10)"
+                                - option "May (5)"
+                                - option "April (7)"
+                                - option "March (2)"
+                                - option "December (1)"
+                                - option "November (3)"
+                                - option "October (8)"
+                                - option "September (4)"
+                                - option "August (2)"
+                                - option "July (2)"
+                                - option "May (7)"
+                                - option "April (4)"
+                                - option "March (2)"
+                                - option "January (1)"
+                                - option "November (1)"
+                                - option "October (4)"
+                                - option "September (5)"
+                                - option "July (13)"
+                                - option "June (13)"
+                                - option "April (8)"
+                                - option "March (10)"
+                                - option "February (16)"
+                                - option "January (1)"
+                                - option "September (1)"
+                                - option "August (5)"
+                            - generic [ref=f16e183]:
+                              - heading "Tags" [level=2] [ref=f16e185]
+                              - generic [ref=f16e186]:
+                                - link ".NET" [ref=f16e188] [cursor=pointer]:
+                                  - /url: https://www.hyrtutorials.com/search/label/.NET?&max-results=6
+                                - link "Apache POI" [ref=f16e190] [cursor=pointer]:
+                                  - /url: https://www.hyrtutorials.com/search/label/Apache%20POI?&max-results=6
+                                - link "AutomationTesting" [ref=f16e192] [cursor=pointer]:
+                                  - /url: https://www.hyrtutorials.com/search/label/AutomationTesting?&max-results=6
+                                - link "Eclipse" [ref=f16e194] [cursor=pointer]:
+                                  - /url: https://www.hyrtutorials.com/search/label/Eclipse?&max-results=6
+                                - link "Java" [ref=f16e196] [cursor=pointer]:
+                                  - /url: https://www.hyrtutorials.com/search/label/Java?&max-results=6
+                                - link "Maven" [ref=f16e198] [cursor=pointer]:
+                                  - /url: https://www.hyrtutorials.com/search/label/Maven?&max-results=6
+                                - link "Selenium" [ref=f16e200] [cursor=pointer]:
+                                  - /url: https://www.hyrtutorials.com/search/label/Selenium?&max-results=6
+                                - link "Shorts" [ref=f16e202] [cursor=pointer]:
+                                  - /url: https://www.hyrtutorials.com/search/label/Shorts?&max-results=6
+                                - link "SQL" [ref=f16e204] [cursor=pointer]:
+                                  - /url: https://www.hyrtutorials.com/search/label/SQL?&max-results=6
+                                - link "TechNews" [ref=f16e206] [cursor=pointer]:
+                                  - /url: https://www.hyrtutorials.com/search/label/TechNews?&max-results=6
+                                - link "Testing" [ref=f16e208] [cursor=pointer]:
+                                  - /url: https://www.hyrtutorials.com/search/label/Testing?&max-results=6
+                                - link "TestNG" [ref=f16e210] [cursor=pointer]:
+                                  - /url: https://www.hyrtutorials.com/search/label/TestNG?&max-results=6
+                                - link "Tutorials" [ref=f16e212] [cursor=pointer]:
+                                  - /url: https://www.hyrtutorials.com/search/label/Tutorials?&max-results=6
+                                - link "Web Automation" [ref=f16e214] [cursor=pointer]:
+                                  - /url: https://www.hyrtutorials.com/search/label/Web%20Automation?&max-results=6
+                                - link "Windows Automation" [ref=f16e216] [cursor=pointer]:
+                                  - /url: https://www.hyrtutorials.com/search/label/Windows%20Automation?&max-results=6
+                      - generic [ref=f16e218]:
+                        - generic [ref=f16e221]:
+                          - heading "Recent Tutorials" [level=2] [ref=f16e223]
+                          - generic [ref=f16e225]:
+                            - generic [ref=f16e226]:
+                              - link [ref=f16e227] [cursor=pointer]:
+                                - /url: https://www.hyrtutorials.com/2023/04/arrays-in-java.html
+                              - generic [ref=f16e229]:
+                                - heading "Arrays in Java" [level=3] [ref=f16e230]:
+                                  - link "Arrays in Java" [ref=f16e231] [cursor=pointer]:
+                                    - /url: https://www.hyrtutorials.com/2023/04/arrays-in-java.html
+                                - text: Yada Giri ReddyApr 16, 2023
+                            - generic [ref=f16e232]:
+                              - link [ref=f16e233] [cursor=pointer]:
+                                - /url: https://www.hyrtutorials.com/2023/04/print-the-English-Alphabet-in-Upper-case-and-Lower-case.html
+                              - generic [ref=f16e235]:
+                                - heading "Write a java program to print the English Alphabet in Upper case and Lower case" [level=3] [ref=f16e236]:
+                                  - link "Write a java program to print the English Alphabet in Upper case and Lower case" [ref=f16e237] [cursor=pointer]:
+                                    - /url: https://www.hyrtutorials.com/2023/04/print-the-English-Alphabet-in-Upper-case-and-Lower-case.html
+                                - text: Yada Giri ReddyApr 08, 2023
+                            - generic [ref=f16e238]:
+                              - link [ref=f16e239] [cursor=pointer]:
+                                - /url: https://www.hyrtutorials.com/2023/04/factors-of-a-given-number.html
+                              - generic [ref=f16e241]:
+                                - heading "Write a java program to print the factors of a given number" [level=3] [ref=f16e242]:
+                                  - link "Write a java program to print the factors of a given number" [ref=f16e243] [cursor=pointer]:
+                                    - /url: https://www.hyrtutorials.com/2023/04/factors-of-a-given-number.html
+                                - text: Yada Giri ReddyApr 05, 2023
+                            - generic [ref=f16e244]:
+                              - link [ref=f16e245] [cursor=pointer]:
+                                - /url: https://www.hyrtutorials.com/2023/04/factorial-of-a-given number.html
+                              - generic [ref=f16e247]:
+                                - heading "Write a java program to print the factorial of a given number" [level=3] [ref=f16e248]:
+                                  - link "Write a java program to print the factorial of a given number" [ref=f16e249] [cursor=pointer]:
+                                    - /url: https://www.hyrtutorials.com/2023/04/factorial-of-a-given number.html
+                                - text: Yada Giri ReddyApr 02, 2023
+                            - generic [ref=f16e250]:
+                              - link [ref=f16e251] [cursor=pointer]:
+                                - /url: https://www.hyrtutorials.com/2023/03/sumof-the-even-numbers-ranging-from-8-to-250-using-for-loop.html
+                              - generic [ref=f16e253]:
+                                - heading "Write a java program to print the sum of the even numbers ranging from 8 to 250 using for loop" [level=3] [ref=f16e254]:
+                                  - link "Write a java program to print the sum of the even numbers ranging from 8 to 250 using for loop" [ref=f16e255] [cursor=pointer]:
+                                    - /url: https://www.hyrtutorials.com/2023/03/sumof-the-even-numbers-ranging-from-8-to-250-using-for-loop.html
+                                - text: Yada Giri ReddyMar 30, 2023
+                        - generic [ref=f16e257]:
+                          - generic [ref=f16e258]:
+                            - heading "Total Pageviews" [level=2] [ref=f16e260]
+                            - generic [ref=f16e263]:
+                              - strong [ref=f16e265]: "1"
+                              - strong [ref=f16e268]: "4"
+                              - strong [ref=f16e271]: "0"
+                              - strong [ref=f16e274]: "0"
+                              - strong [ref=f16e277]: "1"
+                              - strong [ref=f16e280]: "2"
+                              - strong [ref=f16e283]: "8"
+                              - strong [ref=f16e286]: "1"
+                          - generic [ref=f16e288]:
+                            - heading "Tech News" [level=2] [ref=f16e290]
+                            - list [ref=f16e292]:
+                              - listitem [ref=f16e293]:
+                                - link "How I Get Free Traffic from ChatGPT in 2025 (AIO vs SEO)" [ref=f16e295] [cursor=pointer]:
+                                  - /url: https://techncruncher.blogspot.com/2025/12/how-i-get-free-traffic-from-chatgpt-in.html
+                                - text: "- 12/3/2025"
+                              - listitem [ref=f16e296]:
+                                - 'link "What is Blockchain: Everything You Need to Know (2025)" [ref=f16e298] [cursor=pointer]':
+                                  - /url: https://techncruncher.blogspot.com/2025/11/what-is-blockchain-everything-you-need.html
+                                - text: "- 11/24/2025"
+                              - listitem [ref=f16e299]:
+                                - link "Top 10 AI Tools That Will Transform Your Content Creation in 2025" [ref=f16e301] [cursor=pointer]:
+                                  - /url: https://techncruncher.blogspot.com/2025/01/top-10-ai-tools-that-will-transform.html
+                                - text: "- 1/2/2025"
+                              - listitem [ref=f16e302]:
+                                - 'link "LimeWire AI Studio Review 2023: Details, Pricing & Features" [ref=f16e304] [cursor=pointer]':
+                                  - /url: https://techncruncher.blogspot.com/2023/12/limewire-ai-studio-review-2023-details.html
+                                - text: "- 12/12/2023"
+                              - listitem [ref=f16e305]:
+                                - link "Top 10 AI Tools in 2023 That Will Make Your Life Easier" [ref=f16e307] [cursor=pointer]:
+                                  - /url: https://techncruncher.blogspot.com/2023/01/top-10-ai-tools-in-2023-that-will-make.html
+                                - text: "- 1/25/2023"
+                        - generic [ref=f16e309]:
+                          - generic [ref=f16e310]:
+                            - heading "Connect With us" [level=2] [ref=f16e312]
+                            - list [ref=f16e314]:
+                              - listitem [ref=f16e315]:
+                                - link "" [ref=f16e316] [cursor=pointer]:
+                                  - /url: https://facebook.com/HYRTutorials
+                                  - generic [ref=f16e317]: 
+                              - listitem [ref=f16e318]:
+                                - link "" [ref=f16e319] [cursor=pointer]:
+                                  - /url: https://github.com/YadaGiriReddy/HYR-Tutorials
+                                  - generic [ref=f16e320]: 
+                              - listitem [ref=f16e321]:
+                                - link "" [ref=f16e322] [cursor=pointer]:
+                                  - /url: https://www.instagram.com/hyrtutorials
+                                  - generic [ref=f16e323]: 
+                              - listitem [ref=f16e324]:
+                                - link "" [ref=f16e325] [cursor=pointer]:
+                                  - /url: https://linkedin.com/company/hyrtutorials
+                                  - generic [ref=f16e326]: 
+                              - listitem [ref=f16e327]:
+                                - link "" [ref=f16e328] [cursor=pointer]:
+                                  - /url: https://t.me/hyrtutorials
+                                  - generic [ref=f16e329]: 
+                              - listitem [ref=f16e330]:
+                                - link "" [ref=f16e331] [cursor=pointer]:
+                                  - /url: https://youtube.com/hyrtutorials
+                                  - generic [ref=f16e332]: 
+                          - generic [ref=f16e333]:
+                            - heading "Categories" [level=2] [ref=f16e335]
+                            - generic [ref=f16e336]:
+                              - link "Tutorials" [ref=f16e338] [cursor=pointer]:
+                                - /url: https://www.hyrtutorials.com/search/label/Tutorials?&max-results=6
+                              - link "Java" [ref=f16e340] [cursor=pointer]:
+                                - /url: https://www.hyrtutorials.com/search/label/Java?&max-results=6
+                              - link "Testing" [ref=f16e342] [cursor=pointer]:
+                                - /url: https://www.hyrtutorials.com/search/label/Testing?&max-results=6
+                              - link "AutomationTesting" [ref=f16e344] [cursor=pointer]:
+                                - /url: https://www.hyrtutorials.com/search/label/AutomationTesting?&max-results=6
+                              - link "Web Automation" [ref=f16e346] [cursor=pointer]:
+                                - /url: https://www.hyrtutorials.com/search/label/Web%20Automation?&max-results=6
+                              - link "TechNews" [ref=f16e348] [cursor=pointer]:
+                                - /url: https://www.hyrtutorials.com/search/label/TechNews?&max-results=6
+                              - link "Selenium" [ref=f16e350] [cursor=pointer]:
+                                - /url: https://www.hyrtutorials.com/search/label/Selenium?&max-results=6
+                              - link "Shorts" [ref=f16e352] [cursor=pointer]:
+                                - /url: https://www.hyrtutorials.com/search/label/Shorts?&max-results=6
+                              - link "TestNG" [ref=f16e354] [cursor=pointer]:
+                                - /url: https://www.hyrtutorials.com/search/label/TestNG?&max-results=6
+                              - link "SQL" [ref=f16e356] [cursor=pointer]:
+                                - /url: https://www.hyrtutorials.com/search/label/SQL?&max-results=6
+                              - link "Eclipse" [ref=f16e358] [cursor=pointer]:
+                                - /url: https://www.hyrtutorials.com/search/label/Eclipse?&max-results=6
+                              - link "Maven" [ref=f16e360] [cursor=pointer]:
+                                - /url: https://www.hyrtutorials.com/search/label/Maven?&max-results=6
+                              - link "Apache POI" [ref=f16e362] [cursor=pointer]:
+                                - /url: https://www.hyrtutorials.com/search/label/Apache%20POI?&max-results=6
+                              - link ".NET" [ref=f16e364] [cursor=pointer]:
+                                - /url: https://www.hyrtutorials.com/search/label/.NET?&max-results=6
+                              - link "Windows Automation" [ref=f16e366] [cursor=pointer]:
+                                - /url: https://www.hyrtutorials.com/search/label/Windows%20Automation?&max-results=6
+                      - generic [ref=f16e368]:
+                        - generic [ref=f16e369]:
+                          - text: Copyrights @ H Y R Tutorials - Designed by
+                          - link "Yada Giri Reddy" [ref=f16e370] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/in/hyadagirireddy/
+                        - generic [ref=f16e371]:
+                          - text: Crafted with  by
+                          - link "TemplatesYard":
+                            - /url: http://www.templatesyard.com/
+                          - text: "| Distributed by"
+                          - link "Blogger Themes" [ref=f16e372] [cursor=pointer]:
+                            - /url: http://www.mybloggerthemes.com/
+                      - text: 
+                    - iframe [ref=f16e373]:
+                      
+              - generic [ref=e95]:
+                - heading "Frame2:" [level=3] [ref=e96]
+                - iframe [ref=e97]: <p>Your browser does not support iframes.</p>:
+                  - generic [active] [ref=f17e1]:
+                    - generic [ref=f17e2]:
+                      - generic [ref=f17e4]:
+                        - generic [ref=f17e5]:
+                          - generic:
+                            - generic:
+                              - list:
+                                - listitem [ref=f17e6]:
+                                  - link "" [ref=f17e7] [cursor=pointer]:
+                                    - /url: https://www.facebook.com/HYRTutorials/
+                                - listitem [ref=f17e8]:
+                                  - link "" [ref=f17e9] [cursor=pointer]:
+                                    - /url: https://twitter.com/hyrtutorials
+                                - listitem [ref=f17e10]:
+                                  - link "" [ref=f17e11] [cursor=pointer]:
+                                    - /url: https://github.com/YadaGiriReddy/
+                                - listitem [ref=f17e12]:
+                                  - link "" [ref=f17e13] [cursor=pointer]:
+                                    - /url: https://www.instagram.com/hyrtutorials/
+                                - listitem [ref=f17e14]:
+                                  - link "" [ref=f17e15] [cursor=pointer]:
+                                    - /url: https://www.linkedin.com/company/hyrtutorials/
+                                - listitem [ref=f17e16]:
+                                  - link "" [ref=f17e17] [cursor=pointer]:
+                                    - /url: https://www.youtube.com/hyrtutorials
+                        - generic [ref=f17e22]:
+                          - text: 
+                          - combobox [ref=f17e23]:
+                            - option "Menu" [selected]
+                            - option
+                            - option "Home"
+                            - option "Contact"
+                      - generic [ref=f17e25]:
+                        - link "HYR" [ref=f17e30] [cursor=pointer]:
+                          - /url: https://www.hyrtutorials.com/
+                          - img "HYR" [ref=f17e31]
+                        - insertion [ref=f17e36]
+                      - generic [ref=f17e39]:
+                        - listitem [ref=f17e40]:
+                          - link " Home" [ref=f17e41] [cursor=pointer]:
+                            - /url: https://www.hyrtutorials.com/
+                            - generic [ref=f17e42]: 
+                            - text: Home
+                        - generic [ref=f17e44]:
+                          - text:   
+                          - combobox [ref=f17e45]:
+                            - option "Menu"
+                            - option "Tech News"
+                            - option "Tutorials"
+                            - option "- Dot Net"
+                            - option "- SQL"
+                            - option "- Java"
+                            - option "- Testing"
+                            - option "-- Selenium"
+                            - option "-- Automation Testing"
+                            - option "-- Other"
+                            - option "YouTube Courses"
+                            - option "- English"
+                            - option "-- Apache POI"
+                            - option "-- Apache PDFBox"
+                            - option "-- Core Java"
+                            - option "-- CSS Selectors"
+                            - option "-- Extent Reports"
+                            - option "-- JavaScriptExecutor"
+                            - option "-- TestNG"
+                            - option "-- XPath"
+                            - option "- Telugu"
+                            - option "-- Core Java"
+                            - option "-- Selenium Java"
+                            - option "Selenium Practice"
+                            - option "- Broken Links"
+                            - option "-- Link1"
+                            - option "- CSS Selectors Practice"
+                            - option "- XPath Practice"
+                            - option "- Frames Practice"
+                            - option "- Waits Practice"
+                            - option "- Window Handles"
+                            - option "- Basic Controls" [selected]
+                            - option "- Dropdowns"
+                            - option "- Alerts"
+                            - option "- Calendars Practice"
+                            - option "Contact"
+                      - generic [ref=f17e46]:
+                        - generic [ref=f17e52]:
+                          - heading "Basic Controls" [level=1] [ref=f17e55]
+                          - article [ref=f17e56]:
+                            - generic [ref=f17e58]:
+                              - separator [ref=f17e59]
+                              - generic [ref=f17e60]:
+                                - heading "Basic Controls in HTML" [level=1] [ref=f17e61]
+                                - generic [ref=f17e62]: "In HTML we have some basic controls we use often, those are:"
+                                - list [ref=f17e64]:
+                                  - listitem [ref=f17e65]: Textbox
+                                  - listitem [ref=f17e66]: Radiobutton
+                                  - listitem [ref=f17e67]: Checkbox
+                                  - listitem [ref=f17e68]: Link
+                                  - listitem [ref=f17e69]: Button
+                                  - listitem [ref=f17e70]: Label
+                                - text: This page can be used for practicing the above controls using selenium
+                                - separator [ref=f17e71]
+                                - generic [ref=f17e72]: First Name
+                                - textbox "Enter First Name" [ref=f17e73]
+                                - generic [ref=f17e74]: Last Name
+                                - textbox "Enter Last Name" [ref=f17e75]
+                                - generic [ref=f17e76]: Gender
+                                - radio [checked] [ref=f17e77]
+                                - text: Male
+                                - radio [ref=f17e78]
+                                - text: Female
+                                - generic [ref=f17e79]: Languages known
+                                - checkbox [ref=f17e80]
+                                - text: English
+                                - checkbox [ref=f17e81]
+                                - text: Hindi
+                                - checkbox [ref=f17e82]
+                                - text: Chinese
+                                - checkbox [ref=f17e83]
+                                - text: Spanish
+                                - checkbox [ref=f17e84]
+                                - text: Latin
+                                - checkbox [ref=f17e85]
+                                - text: French
+                                - generic [ref=f17e86]: Email
+                                - textbox "Enter Email" [ref=f17e87]
+                                - generic [ref=f17e88]: Password
+                                - textbox "Enter Password" [ref=f17e89]
+                                - separator [ref=f17e90]
+                                - generic [ref=f17e91]:
+                                  - button "Register" [ref=f17e92]
+                                  - button "Clear" [ref=f17e93]
+                                  - link "Click here to navigate to the home page" [ref=f17e94] [cursor=pointer]:
+                                    - /url: https://hyrtutorials.blogspot.com/
+                        - generic [ref=f17e96]:
+                          - generic [ref=f17e97]:
+                            - generic [ref=f17e98]:
+                              - heading "Support My Work" [level=2] [ref=f17e100]
+                              - link "Buy me a coffee" [ref=f17e103] [cursor=pointer]:
+                                - /url: https://buymeacoffee.com/yadagirireddy
+                                - img [ref=f17e104]
+                                - generic: Buy me a coffee
+                            - generic [ref=f17e119]:
+                              - heading "Subscribe to YouTube channels" [level=2] [ref=f17e121]
+                              - generic [ref=f17e122]:
+                                - iframe [ref=f17e124]:
+                                  - generic [ref=f27e2]:
+                                    - link:
+                                      - /url: /channel/UCzFPWBdClpZ9afmmyhho4Rg
+                                      - img [ref=f27e6] [cursor=pointer]
+                                    - link "H Y R Tutorials" [ref=f27e7] [cursor=pointer]:
+                                      - /url: /channel/UCzFPWBdClpZ9afmmyhho4Rg
+                                    - generic [ref=f27e8]:
+                                      - button "YouTube" [ref=f27e9] [cursor=pointer]:
+                                        - generic "YouTube" [ref=f27e11]
+                                      - button "73K" [ref=f27e12]
+                                - iframe [ref=f17e126]:
+                                  - generic [ref=f28e2]:
+                                    - link:
+                                      - /url: /channel/UC1Bbtdbpfert8leeKx2mssw
+                                      - img [ref=f28e6] [cursor=pointer]
+                                    - link "H Y R Tutorials - Telugu" [ref=f28e7] [cursor=pointer]:
+                                      - /url: /channel/UC1Bbtdbpfert8leeKx2mssw
+                                    - generic [ref=f28e8]:
+                                      - button "YouTube" [ref=f28e9] [cursor=pointer]:
+                                        - generic "YouTube" [ref=f28e11]
+                                      - button "146K" [ref=f28e12]
+                            - generic [ref=f17e127]:
+                              - heading "Telegram" [level=2] [ref=f17e129]
+                              - link "Join Telegram Channel" [ref=f17e131] [cursor=pointer]:
+                                - /url: https://xn--r1a.click/hyrtutorials
+                                - img [ref=f17e132]
+                                - text: Join Telegram Channel
+                            - heading "Facebook" [level=2] [ref=f17e137]
+                            - generic [ref=f17e143]:
+                              - heading "Twitter" [level=2] [ref=f17e145]
+                              - iframe [ref=f17e147]:
+                                - link "Follow @hyrtutorials" [ref=f63e4] [cursor=pointer]:
+                                  - /url: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fwww.hyrtutorials.com%2F&ref_src=twsrc%5Etfw%7Ctwcamp%5Ebuttonembed%7Ctwterm%5Efollow%7Ctwgr%5Ehyrtutorials&region=follow_link&screen_name=hyrtutorials
+                                  - generic [ref=f63e6]: Follow @hyrtutorials
+                          - generic [ref=f17e148]:
+                            - list [ref=f17e149]:
+                              - listitem [ref=f17e150]:
+                                - link "Popular" [ref=f17e151] [cursor=pointer]:
+                                  - /url: "#tabside1"
+                              - listitem [ref=f17e152]:
+                                - link "Recent" [ref=f17e153] [cursor=pointer]:
+                                  - /url: "#tabside2"
+                              - listitem [ref=f17e154]:
+                                - link "Comments" [ref=f17e155] [cursor=pointer]:
+                                  - /url: "#tabside3"
+                            - list [ref=f17e159]:
+                              - listitem [ref=f17e160]:
+                                - generic [ref=f17e161]:
+                                  - link "Arrays%20(Single-dimensional)%20in%20Java" [ref=f17e163] [cursor=pointer]:
+                                    - /url: https://www.hyrtutorials.com/2023/04/arrays-in-java.html
+                                    - img "Arrays%20(Single-dimensional)%20in%20Java" [ref=f17e164]
+                                  - link "Arrays in Java" [ref=f17e166] [cursor=pointer]:
+                                    - /url: https://www.hyrtutorials.com/2023/04/arrays-in-java.html
+                              - listitem [ref=f17e167]:
+                                - generic [ref=f17e168]:
+                                  - link "31" [ref=f17e170] [cursor=pointer]:
+                                    - /url: https://www.hyrtutorials.com/2023/04/print-the-English-Alphabet-in-Upper-case-and-Lower-case.html
+                                    - img "31" [ref=f17e171]
+                                  - link "Write a java program to print the English Alphabet in Upper case and Lower case" [ref=f17e173] [cursor=pointer]:
+                                    - /url: https://www.hyrtutorials.com/2023/04/print-the-English-Alphabet-in-Upper-case-and-Lower-case.html
+                              - listitem [ref=f17e174]:
+                                - generic [ref=f17e175]:
+                                  - link "30" [ref=f17e177] [cursor=pointer]:
+                                    - /url: https://www.hyrtutorials.com/2023/04/factors-of-a-given-number.html
+                                    - img "30" [ref=f17e178]
+                                  - link "Write a java program to print the factors of a given number" [ref=f17e180] [cursor=pointer]:
+                                    - /url: https://www.hyrtutorials.com/2023/04/factors-of-a-given-number.html
+                              - listitem [ref=f17e181]:
+                                - generic [ref=f17e182]:
+                                  - link "Apache+maven" [ref=f17e184] [cursor=pointer]:
+                                    - /url: https://www.hyrtutorials.com/2019/09/maven-uninstallation-on-microsoft.html
+                                    - img "Apache+maven" [ref=f17e185]
+                                  - link "Maven uninstallation on Microsoft Windows" [ref=f17e187] [cursor=pointer]:
+                                    - /url: https://www.hyrtutorials.com/2019/09/maven-uninstallation-on-microsoft.html
+                              - listitem [ref=f17e188]:
+                                - generic [ref=f17e189]:
+                                  - link "Cucumber+Eclipse+pluggin" [ref=f17e191] [cursor=pointer]:
+                                    - /url: https://www.hyrtutorials.com/2019/09/how-to-install-cucumber-eclipse-plugin.html
+                                    - img "Cucumber+Eclipse+pluggin" [ref=f17e192]
+                                  - link "How to install Cucumber Eclipse Plugin" [ref=f17e194] [cursor=pointer]:
+                                    - /url: https://www.hyrtutorials.com/2019/09/how-to-install-cucumber-eclipse-plugin.html
+                            - text:     
+                          - generic [ref=f17e195]:
+                            - generic [ref=f17e196]:
+                              - heading "Archive" [level=2] [ref=f17e198]
+                              - combobox [ref=f17e202]:
+                                - option "Archive" [selected]
+                                - option "April (4)"
+                                - option "March (10)"
+                                - option "February (10)"
+                                - option "January (13)"
+                                - option "December (5)"
+                                - option "October (5)"
+                                - option "September (2)"
+                                - option "June (21)"
+                                - option "May (10)"
+                                - option "April (1)"
+                                - option "March (25)"
+                                - option "February (3)"
+                                - option "January (1)"
+                                - option "July (6)"
+                                - option "June (10)"
+                                - option "May (5)"
+                                - option "April (7)"
+                                - option "March (2)"
+                                - option "December (1)"
+                                - option "November (3)"
+                                - option "October (8)"
+                                - option "September (4)"
+                                - option "August (2)"
+                                - option "July (2)"
+                                - option "May (7)"
+                                - option "April (4)"
+                                - option "March (2)"
+                                - option "January (1)"
+                                - option "November (1)"
+                                - option "October (4)"
+                                - option "September (5)"
+                                - option "July (13)"
+                                - option "June (13)"
+                                - option "April (8)"
+                                - option "March (10)"
+                                - option "February (16)"
+                                - option "January (1)"
+                                - option "September (1)"
+                                - option "August (5)"
+                            - generic [ref=f17e203]:
+                              - heading "Tags" [level=2] [ref=f17e205]
+                              - generic [ref=f17e206]:
+                                - link ".NET" [ref=f17e208] [cursor=pointer]:
+                                  - /url: https://www.hyrtutorials.com/search/label/.NET?&max-results=6
+                                - link "Apache POI" [ref=f17e210] [cursor=pointer]:
+                                  - /url: https://www.hyrtutorials.com/search/label/Apache%20POI?&max-results=6
+                                - link "AutomationTesting" [ref=f17e212] [cursor=pointer]:
+                                  - /url: https://www.hyrtutorials.com/search/label/AutomationTesting?&max-results=6
+                                - link "Eclipse" [ref=f17e214] [cursor=pointer]:
+                                  - /url: https://www.hyrtutorials.com/search/label/Eclipse?&max-results=6
+                                - link "Java" [ref=f17e216] [cursor=pointer]:
+                                  - /url: https://www.hyrtutorials.com/search/label/Java?&max-results=6
+                                - link "Maven" [ref=f17e218] [cursor=pointer]:
+                                  - /url: https://www.hyrtutorials.com/search/label/Maven?&max-results=6
+                                - link "Selenium" [ref=f17e220] [cursor=pointer]:
+                                  - /url: https://www.hyrtutorials.com/search/label/Selenium?&max-results=6
+                                - link "Shorts" [ref=f17e222] [cursor=pointer]:
+                                  - /url: https://www.hyrtutorials.com/search/label/Shorts?&max-results=6
+                                - link "SQL" [ref=f17e224] [cursor=pointer]:
+                                  - /url: https://www.hyrtutorials.com/search/label/SQL?&max-results=6
+                                - link "TechNews" [ref=f17e226] [cursor=pointer]:
+                                  - /url: https://www.hyrtutorials.com/search/label/TechNews?&max-results=6
+                                - link "Testing" [ref=f17e228] [cursor=pointer]:
+                                  - /url: https://www.hyrtutorials.com/search/label/Testing?&max-results=6
+                                - link "TestNG" [ref=f17e230] [cursor=pointer]:
+                                  - /url: https://www.hyrtutorials.com/search/label/TestNG?&max-results=6
+                                - link "Tutorials" [ref=f17e232] [cursor=pointer]:
+                                  - /url: https://www.hyrtutorials.com/search/label/Tutorials?&max-results=6
+                                - link "Web Automation" [ref=f17e234] [cursor=pointer]:
+                                  - /url: https://www.hyrtutorials.com/search/label/Web%20Automation?&max-results=6
+                                - link "Windows Automation" [ref=f17e236] [cursor=pointer]:
+                                  - /url: https://www.hyrtutorials.com/search/label/Windows%20Automation?&max-results=6
+                      - generic [ref=f17e238]:
+                        - generic [ref=f17e241]:
+                          - heading "Recent Tutorials" [level=2] [ref=f17e243]
+                          - generic [ref=f17e245]:
+                            - generic [ref=f17e246]:
+                              - link [ref=f17e247] [cursor=pointer]:
+                                - /url: https://www.hyrtutorials.com/2023/04/arrays-in-java.html
+                              - generic [ref=f17e249]:
+                                - heading "Arrays in Java" [level=3] [ref=f17e250]:
+                                  - link "Arrays in Java" [ref=f17e251] [cursor=pointer]:
+                                    - /url: https://www.hyrtutorials.com/2023/04/arrays-in-java.html
+                                - text: Yada Giri ReddyApr 16, 2023
+                            - generic [ref=f17e252]:
+                              - link [ref=f17e253] [cursor=pointer]:
+                                - /url: https://www.hyrtutorials.com/2023/04/print-the-English-Alphabet-in-Upper-case-and-Lower-case.html
+                              - generic [ref=f17e255]:
+                                - heading "Write a java program to print the English Alphabet in Upper case and Lower case" [level=3] [ref=f17e256]:
+                                  - link "Write a java program to print the English Alphabet in Upper case and Lower case" [ref=f17e257] [cursor=pointer]:
+                                    - /url: https://www.hyrtutorials.com/2023/04/print-the-English-Alphabet-in-Upper-case-and-Lower-case.html
+                                - text: Yada Giri ReddyApr 08, 2023
+                            - generic [ref=f17e258]:
+                              - link [ref=f17e259] [cursor=pointer]:
+                                - /url: https://www.hyrtutorials.com/2023/04/factors-of-a-given-number.html
+                              - generic [ref=f17e261]:
+                                - heading "Write a java program to print the factors of a given number" [level=3] [ref=f17e262]:
+                                  - link "Write a java program to print the factors of a given number" [ref=f17e263] [cursor=pointer]:
+                                    - /url: https://www.hyrtutorials.com/2023/04/factors-of-a-given-number.html
+                                - text: Yada Giri ReddyApr 05, 2023
+                            - generic [ref=f17e264]:
+                              - link [ref=f17e265] [cursor=pointer]:
+                                - /url: https://www.hyrtutorials.com/2023/04/factorial-of-a-given number.html
+                              - generic [ref=f17e267]:
+                                - heading "Write a java program to print the factorial of a given number" [level=3] [ref=f17e268]:
+                                  - link "Write a java program to print the factorial of a given number" [ref=f17e269] [cursor=pointer]:
+                                    - /url: https://www.hyrtutorials.com/2023/04/factorial-of-a-given number.html
+                                - text: Yada Giri ReddyApr 02, 2023
+                            - generic [ref=f17e270]:
+                              - link [ref=f17e271] [cursor=pointer]:
+                                - /url: https://www.hyrtutorials.com/2023/03/sumof-the-even-numbers-ranging-from-8-to-250-using-for-loop.html
+                              - generic [ref=f17e273]:
+                                - heading "Write a java program to print the sum of the even numbers ranging from 8 to 250 using for loop" [level=3] [ref=f17e274]:
+                                  - link "Write a java program to print the sum of the even numbers ranging from 8 to 250 using for loop" [ref=f17e275] [cursor=pointer]:
+                                    - /url: https://www.hyrtutorials.com/2023/03/sumof-the-even-numbers-ranging-from-8-to-250-using-for-loop.html
+                                - text: Yada Giri ReddyMar 30, 2023
+                        - generic [ref=f17e277]:
+                          - generic [ref=f17e278]:
+                            - heading "Total Pageviews" [level=2] [ref=f17e280]
+                            - generic [ref=f17e283]:
+                              - strong [ref=f17e285]: "1"
+                              - strong [ref=f17e288]: "4"
+                              - strong [ref=f17e291]: "0"
+                              - strong [ref=f17e294]: "0"
+                              - strong [ref=f17e297]: "1"
+                              - strong [ref=f17e300]: "2"
+                              - strong [ref=f17e303]: "7"
+                              - strong [ref=f17e306]: "9"
+                          - generic [ref=f17e308]:
+                            - heading "Tech News" [level=2] [ref=f17e310]
+                            - list [ref=f17e312]:
+                              - listitem [ref=f17e313]:
+                                - link "How I Get Free Traffic from ChatGPT in 2025 (AIO vs SEO)" [ref=f17e315] [cursor=pointer]:
+                                  - /url: https://techncruncher.blogspot.com/2025/12/how-i-get-free-traffic-from-chatgpt-in.html
+                                - text: "- 12/3/2025"
+                              - listitem [ref=f17e316]:
+                                - 'link "What is Blockchain: Everything You Need to Know (2025)" [ref=f17e318] [cursor=pointer]':
+                                  - /url: https://techncruncher.blogspot.com/2025/11/what-is-blockchain-everything-you-need.html
+                                - text: "- 11/24/2025"
+                              - listitem [ref=f17e319]:
+                                - link "Top 10 AI Tools That Will Transform Your Content Creation in 2025" [ref=f17e321] [cursor=pointer]:
+                                  - /url: https://techncruncher.blogspot.com/2025/01/top-10-ai-tools-that-will-transform.html
+                                - text: "- 1/2/2025"
+                              - listitem [ref=f17e322]:
+                                - 'link "LimeWire AI Studio Review 2023: Details, Pricing & Features" [ref=f17e324] [cursor=pointer]':
+                                  - /url: https://techncruncher.blogspot.com/2023/12/limewire-ai-studio-review-2023-details.html
+                                - text: "- 12/12/2023"
+                              - listitem [ref=f17e325]:
+                                - link "Top 10 AI Tools in 2023 That Will Make Your Life Easier" [ref=f17e327] [cursor=pointer]:
+                                  - /url: https://techncruncher.blogspot.com/2023/01/top-10-ai-tools-in-2023-that-will-make.html
+                                - text: "- 1/25/2023"
+                        - generic [ref=f17e329]:
+                          - generic [ref=f17e330]:
+                            - heading "Connect With us" [level=2] [ref=f17e332]
+                            - list [ref=f17e334]:
+                              - listitem [ref=f17e335]:
+                                - link "" [ref=f17e336] [cursor=pointer]:
+                                  - /url: https://facebook.com/HYRTutorials
+                                  - generic [ref=f17e337]: 
+                              - listitem [ref=f17e338]:
+                                - link "" [ref=f17e339] [cursor=pointer]:
+                                  - /url: https://github.com/YadaGiriReddy/HYR-Tutorials
+                                  - generic [ref=f17e340]: 
+                              - listitem [ref=f17e341]:
+                                - link "" [ref=f17e342] [cursor=pointer]:
+                                  - /url: https://www.instagram.com/hyrtutorials
+                                  - generic [ref=f17e343]: 
+                              - listitem [ref=f17e344]:
+                                - link "" [ref=f17e345] [cursor=pointer]:
+                                  - /url: https://linkedin.com/company/hyrtutorials
+                                  - generic [ref=f17e346]: 
+                              - listitem [ref=f17e347]:
+                                - link "" [ref=f17e348] [cursor=pointer]:
+                                  - /url: https://t.me/hyrtutorials
+                                  - generic [ref=f17e349]: 
+                              - listitem [ref=f17e350]:
+                                - link "" [ref=f17e351] [cursor=pointer]:
+                                  - /url: https://youtube.com/hyrtutorials
+                                  - generic [ref=f17e352]: 
+                          - generic [ref=f17e353]:
+                            - heading "Categories" [level=2] [ref=f17e355]
+                            - generic [ref=f17e356]:
+                              - link "Tutorials" [ref=f17e358] [cursor=pointer]:
+                                - /url: https://www.hyrtutorials.com/search/label/Tutorials?&max-results=6
+                              - link "Java" [ref=f17e360] [cursor=pointer]:
+                                - /url: https://www.hyrtutorials.com/search/label/Java?&max-results=6
+                              - link "Testing" [ref=f17e362] [cursor=pointer]:
+                                - /url: https://www.hyrtutorials.com/search/label/Testing?&max-results=6
+                              - link "AutomationTesting" [ref=f17e364] [cursor=pointer]:
+                                - /url: https://www.hyrtutorials.com/search/label/AutomationTesting?&max-results=6
+                              - link "Web Automation" [ref=f17e366] [cursor=pointer]:
+                                - /url: https://www.hyrtutorials.com/search/label/Web%20Automation?&max-results=6
+                              - link "TechNews" [ref=f17e368] [cursor=pointer]:
+                                - /url: https://www.hyrtutorials.com/search/label/TechNews?&max-results=6
+                              - link "Selenium" [ref=f17e370] [cursor=pointer]:
+                                - /url: https://www.hyrtutorials.com/search/label/Selenium?&max-results=6
+                              - link "Shorts" [ref=f17e372] [cursor=pointer]:
+                                - /url: https://www.hyrtutorials.com/search/label/Shorts?&max-results=6
+                              - link "TestNG" [ref=f17e374] [cursor=pointer]:
+                                - /url: https://www.hyrtutorials.com/search/label/TestNG?&max-results=6
+                              - link "SQL" [ref=f17e376] [cursor=pointer]:
+                                - /url: https://www.hyrtutorials.com/search/label/SQL?&max-results=6
+                              - link "Eclipse" [ref=f17e378] [cursor=pointer]:
+                                - /url: https://www.hyrtutorials.com/search/label/Eclipse?&max-results=6
+                              - link "Maven" [ref=f17e380] [cursor=pointer]:
+                                - /url: https://www.hyrtutorials.com/search/label/Maven?&max-results=6
+                              - link "Apache POI" [ref=f17e382] [cursor=pointer]:
+                                - /url: https://www.hyrtutorials.com/search/label/Apache%20POI?&max-results=6
+                              - link ".NET" [ref=f17e384] [cursor=pointer]:
+                                - /url: https://www.hyrtutorials.com/search/label/.NET?&max-results=6
+                              - link "Windows Automation" [ref=f17e386] [cursor=pointer]:
+                                - /url: https://www.hyrtutorials.com/search/label/Windows%20Automation?&max-results=6
+                      - generic [ref=f17e388]:
+                        - generic [ref=f17e389]:
+                          - text: Copyrights @ H Y R Tutorials - Designed by
+                          - link "Yada Giri Reddy" [ref=f17e390] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/in/hyadagirireddy/
+                        - generic [ref=f17e391]:
+                          - text: Crafted with  by
+                          - link "TemplatesYard":
+                            - /url: http://www.templatesyard.com/
+                          - text: "| Distributed by"
+                          - link "Blogger Themes" [ref=f17e392] [cursor=pointer]:
+                            - /url: http://www.mybloggerthemes.com/
+                      - text: 
+                    - iframe [ref=f17e393]:
+                      
+              - generic [ref=e98]:
+                - heading "Frame3:" [level=3] [ref=e99]
+                - iframe [ref=e100]: <p>Your browser does not support iframes.</p>:
+                  - generic [active] [ref=f18e1]:
+                    - generic [ref=f18e2]:
+                      - generic [ref=f18e4]:
+                        - generic [ref=f18e5]:
+                          - generic:
+                            - generic:
+                              - list:
+                                - listitem [ref=f18e6]:
+                                  - link "" [ref=f18e7] [cursor=pointer]:
+                                    - /url: https://www.facebook.com/HYRTutorials/
+                                - listitem [ref=f18e8]:
+                                  - link "" [ref=f18e9] [cursor=pointer]:
+                                    - /url: https://twitter.com/hyrtutorials
+                                - listitem [ref=f18e10]:
+                                  - link "" [ref=f18e11] [cursor=pointer]:
+                                    - /url: https://github.com/YadaGiriReddy/
+                                - listitem [ref=f18e12]:
+                                  - link "" [ref=f18e13] [cursor=pointer]:
+                                    - /url: https://www.instagram.com/hyrtutorials/
+                                - listitem [ref=f18e14]:
+                                  - link "" [ref=f18e15] [cursor=pointer]:
+                                    - /url: https://www.linkedin.com/company/hyrtutorials/
+                                - listitem [ref=f18e16]:
+                                  - link "" [ref=f18e17] [cursor=pointer]:
+                                    - /url: https://www.youtube.com/hyrtutorials
+                        - generic [ref=f18e22]:
+                          - text: 
+                          - combobox [ref=f18e23]:
+                            - option "Menu" [selected]
+                            - option
+                            - option "Home"
+                            - option "Contact"
+                      - generic [ref=f18e25]:
+                        - link "HYR" [ref=f18e30] [cursor=pointer]:
+                          - /url: https://www.hyrtutorials.com/
+                          - img "HYR" [ref=f18e31]
+                        - insertion [ref=f18e36]
+                      - generic [ref=f18e39]:
+                        - listitem [ref=f18e40]:
+                          - link " Home" [ref=f18e41] [cursor=pointer]:
+                            - /url: https://www.hyrtutorials.com/
+                            - generic [ref=f18e42]: 
+                            - text: Home
+                        - generic [ref=f18e44]:
+                          - text:   
+                          - combobox [ref=f18e45]:
+                            - option "Menu"
+                            - option "Tech News"
+                            - option "Tutorials"
+                            - option "- Dot Net"
+                            - option "- SQL"
+                            - option "- Java"
+                            - option "- Testing"
+                            - option "-- Selenium"
+                            - option "-- Automation Testing"
+                            - option "-- Other"
+                            - option "YouTube Courses"
+                            - option "- English"
+                            - option "-- Apache POI"
+                            - option "-- Apache PDFBox"
+                            - option "-- Core Java"
+                            - option "-- CSS Selectors"
+                            - option "-- Extent Reports"
+                            - option "-- JavaScriptExecutor"
+                            - option "-- TestNG"
+                            - option "-- XPath"
+                            - option "- Telugu"
+                            - option "-- Core Java"
+                            - option "-- Selenium Java"
+                            - option "Selenium Practice"
+                            - option "- Broken Links"
+                            - option "-- Link1"
+                            - option "- CSS Selectors Practice"
+                            - option "- XPath Practice"
+                            - option "- Frames Practice" [selected]
+                            - option "- Waits Practice"
+                            - option "- Window Handles"
+                            - option "- Basic Controls"
+                            - option "- Dropdowns"
+                            - option "- Alerts"
+                            - option "- Calendars Practice"
+                            - option "Contact"
+                      - generic [ref=f18e46]:
+                        - generic [ref=f18e52]:
+                          - heading "Frames Practice" [level=1] [ref=f18e55]
+                          - article [ref=f18e56]:
+                            - generic [ref=f18e57]:
+                              - generic [ref=f18e58]: "This page is used for practicing iframes in web automation. We have three types of frames in web applications, those are:"
+                              - list [ref=f18e60]:
+                                - listitem [ref=f18e61]:
+                                  - text: frame - The
+                                  - generic [ref=f18e62]: <frame>
+                                  - text: tag was used in HTML 4 to define one particular window (frame) within a
+                                  - generic [ref=f18e63]: <frameset>
+                                  - text: .
+                                - listitem [ref=f18e64]:
+                                  - text: frameset - The
+                                  - generic [ref=f18e65]: <frameset>
+                                  - text: tag was used in HTML 4 to define a frameset.
+                                - listitem [ref=f18e66]:
+                                  - text: iframe - The
+                                  - generic [ref=f18e67]: <iframe>
+                                  - text: tag specifies an inline frame. An inline frame is used to embed another document within the current HTML document.
+                              - generic [ref=f18e68]: Out of these, frame and frameset were no longer being supported in HTML 5. Below we have three frames to practice.
+                              - generic [ref=f18e69]:
+                                - generic [ref=f18e70]:
+                                  - paragraph [ref=f18e71]
+                                  - paragraph [ref=f18e72]: This textbox is used for entering the text after switching back from frames.
+                                  - textbox [ref=f18e73]
+                                - generic [ref=f18e74]:
+                                  - heading "Frame1:" [level=3] [ref=f18e75]
+                                  - iframe [ref=f18e76]: <p>Your browser does not support iframes.</p>:
+                                    - generic [active] [ref=f23e1]:
+                                      - generic [ref=f23e2]:
+                                        - generic [ref=f23e4]:
+                                          - list [ref=f23e8]:
+                                            - listitem [ref=f23e9]:
+                                              - link "" [ref=f23e10] [cursor=pointer]:
+                                                - /url: https://www.facebook.com/HYRTutorials/
+                                            - listitem [ref=f23e11]:
+                                              - link "" [ref=f23e12] [cursor=pointer]:
+                                                - /url: https://twitter.com/hyrtutorials
+                                            - listitem [ref=f23e13]:
+                                              - link "" [ref=f23e14] [cursor=pointer]:
+                                                - /url: https://github.com/YadaGiriReddy/
+                                            - listitem [ref=f23e15]:
+                                              - link "" [ref=f23e16] [cursor=pointer]:
+                                                - /url: https://www.instagram.com/hyrtutorials/
+                                            - listitem [ref=f23e17]:
+                                              - link "" [ref=f23e18] [cursor=pointer]:
+                                                - /url: https://www.linkedin.com/company/hyrtutorials/
+                                            - listitem [ref=f23e19]:
+                                              - link "" [ref=f23e20] [cursor=pointer]:
+                                                - /url: https://www.youtube.com/hyrtutorials
+                                          - generic [ref=f23e25]:
+                                            - text: 
+                                            - combobox [ref=f23e26]:
+                                              - option "Menu" [selected]
+                                              - option
+                                              - option "Home"
+                                              - option "Contact"
+                                        - generic [ref=f23e28]:
+                                          - link "HYR" [ref=f23e33] [cursor=pointer]:
+                                            - /url: https://www.hyrtutorials.com/
+                                            - img "HYR" [ref=f23e34]
+                                          - insertion [ref=f23e39]:
+                                            - iframe [ref=f23e41]:
+                                              - generic [active] [ref=f57e1]:
+                                                - link "Gramar Stone Center Indoor slab yard 2000+ slabs OPEN" [ref=f57e6] [cursor=pointer]:
+                                                  - /url: https://googleads.g.doubleclick.net/aclk?nis=4&sa=l&ai=CTmn1hWxLaYXRAfOa4_UPiMOVkQyriu2XetDZnMCKFevUuMzUARABIJioxnBgyebjhsijkBmgAf2739YDyAEBqAMByAPLBKoEoQJP0GlUrCbCuVJi_WaAVEvAJYTmndei1OcKpgT_UFkSxeW62eUfSCu0A9mDyUzYCNKTgpfpkGjqO1jSm_a1akYNhRzOJ4k_K3TdhBw35lYTKLsXp-e2aqVRyRjDhlHGcbHaaunlRHS-JvaV_GwpfXACz8_icX3loB-TusGutLEYMgzql58NN9RCj4gp8BpOcMu-9x5mfPG27B3KVr6E3B0Dc0I-AvxBr0Zj267nAkea6OJSsvSxwjcYV9Zs4U_zGUAtTEhDmo9nIjNlkF0sAORyFzAI8nCrlyRTslqLrebPPwNLuJi0RivypnphSD89l4HgdLt00H3iAoppvyuK_VEReHiqBYcaVWo4hUBEJG2pboe-TnqQM0so_ExN9NtAArBOwASA4NTe6AGIBenU1t0DgAfrw6ApqAenzLECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAfVyRuoB9m2sQKoB5oGqAf_nrECqAffn7ECqAfKqbECqAfrpbECqAfqsbECqAeZtbECqAe-t7ECqAf4wrECqAf7wrECqAfCyLEC2AcB0ggvCIBhEAEYnwMyCIqCgICAgIAIOg2AQIDAgICAgKiAAqgDSL39wTpY-IqDhbLVkQOxCQ8y7UnCN411gAoBigpCaHR0cDovL3d3dy5ncmFtYXJzdG9uZS5jb20vP2dhZF9zb3VyY2U9NSZnYWRfY2FtcGFpZ25pZD0xMDAxNzYxMzg1mAsByAsB4AsB2gwQCgoQkKjanJPO3KlzEgIBA6oNAlVTyA0B6g0TCKWgkYWy1ZEDFXPNuAgdiGElwvANAogOCdgTCtAVAcoWAgoA-BYBgBcBshcOGAEqCjk4NDM2NDQ5NzK6FwI4AaoYFwkAAAAA4MnsQBIKOTg0MzY0NDk3MhgBshgJEgKqUBgBIgEA0BgBwhkCCAE&ae=1&ase=2&gclid=EAIaIQobChMIxaeDhbLVkQMVc824CB2IYSXCEAEYASAAEgLk3vD_BwE&num=1&cid=CAQSqwEAwksa0W7oLPe0tE8_5EeW2bdfHgWrdbpp0K6yUSuRLB8fCpBub0NmNRtymvsKgFLSmQLvGsYM9GMQIHR7URhtZxGqBxB4dAcz0qYRmKtCo0JxXeaknXbDJSS_zjQ5Fp10bRHBRuND5UWQLpsq6XR0NpFzndzL2Ob7KoOkoP1aR6JqCbL1FqTxmj8s9JyUIJv7OIuxEjInb2TyEQDuDwtn2b8DOrav5LGPsugYAQ&sig=AOD64_0Z_0qNUnJE64J9aAJDfN4LifP3jQ&client=ca-pub-2190203024692607&rf=1&nb=2&adurl=https://www.gramarstone.com/%3Fgad_source%3D5%26gad_campaignid%3D1001761385%26gclid%3DEAIaIQobChMIxaeDhbLVkQMVc824CB2IYSXCEAEYASAAEgLk3vD_BwE
+                                                  - generic [ref=f57e7]:
+                                                    - generic [ref=f57e10]:
+                                                      - generic "Gramar Stone Center" [ref=f57e11]
+                                                      - generic "Gramar Stone Center" [ref=f57e12]: Indoor slab yard 2000+ slabs
+                                                    - generic [ref=f57e16]:
+                                                      - generic: OPEN
+                                                      - img [ref=f57e17]
+                                                - img [ref=f57e23] [cursor=pointer]
+                                                - button [ref=f57e26] [cursor=pointer]:
+                                                  - img [ref=f57e27]
+                                                - iframe
+                                        - generic [ref=f23e43]:
+                                          - listitem [ref=f23e44]:
+                                            - link " Home" [ref=f23e45] [cursor=pointer]:
+                                              - /url: https://www.hyrtutorials.com/
+                                              - generic [ref=f23e46]: 
+                                              - text: Home
+                                          - generic [ref=f23e48]:
+                                            - text:   
+                                            - combobox [ref=f23e49]:
+                                              - option "Menu"
+                                              - option "Tech News"
+                                              - option "Tutorials"
+                                              - option "- Dot Net"
+                                              - option "- SQL"
+                                              - option "- Java"
+                                              - option "- Testing"
+                                              - option "-- Selenium"
+                                              - option "-- Automation Testing"
+                                              - option "-- Other"
+                                              - option "YouTube Courses"
+                                              - option "- English"
+                                              - option "-- Apache POI"
+                                              - option "-- Apache PDFBox"
+                                              - option "-- Core Java"
+                                              - option "-- CSS Selectors"
+                                              - option "-- Extent Reports"
+                                              - option "-- JavaScriptExecutor"
+                                              - option "-- TestNG"
+                                              - option "-- XPath"
+                                              - option "- Telugu"
+                                              - option "-- Core Java"
+                                              - option "-- Selenium Java"
+                                              - option "Selenium Practice"
+                                              - option "- Broken Links"
+                                              - option "-- Link1"
+                                              - option "- CSS Selectors Practice"
+                                              - option "- XPath Practice"
+                                              - option "- Frames Practice"
+                                              - option "- Waits Practice"
+                                              - option "- Window Handles"
+                                              - option "- Basic Controls"
+                                              - option "- Dropdowns" [selected]
+                                              - option "- Alerts"
+                                              - option "- Calendars Practice"
+                                              - option "Contact"
+                                        - generic [ref=f23e50]:
+                                          - generic [ref=f23e56]:
+                                            - heading "HTML Dropdowns" [level=1] [ref=f23e59]
+                                            - article [ref=f23e60]:
+                                              - generic [ref=f23e62]:
+                                                - separator [ref=f23e63]
+                                                - generic [ref=f23e64]:
+                                                  - generic [ref=f23e65]:
+                                                    - text: In HTML we have dropdown controls we use very often, There are two types of dropdown available.
+                                                    - list [ref=f23e66]:
+                                                      - listitem [ref=f23e67]: Single-Selection Dropdown
+                                                      - listitem [ref=f23e68]: Muli-Selection Dropdown
+                                                    - text: This page can be used for practicing the above controls using selenium.
+                                                  - separator [ref=f23e69]
+                                                  - generic [ref=f23e70]: "Course Name:"
+                                                  - combobox [ref=f23e71]:
+                                                    - option "Select" [selected]
+                                                    - option "Java"
+                                                    - option "Dot Net"
+                                                    - option "Python"
+                                                    - option "Javascript"
+                                                  - generic [ref=f23e72]: "IDE Name:"
+                                                  - listbox [ref=f23e73]:
+                                                    - option "Eclipse" [ref=f23e74]
+                                                    - option "IntelliJ IDEA" [ref=f23e75]
+                                                    - option "Visual Studio" [ref=f23e76]
+                                                    - option "NetBeans" [ref=f23e77]
+                                                  - text: Here the Course Name dropdown is a single-selection dropdown and IDE Name dropdown is a multi-selection dropdown.
+                                                - separator [ref=f23e78]
+                                          - generic [ref=f23e80]:
+                                            - generic [ref=f23e81]:
+                                              - generic [ref=f23e82]:
+                                                - heading "Support My Work" [level=2] [ref=f23e84]
+                                                - link "Buy me a coffee" [ref=f23e87] [cursor=pointer]:
+                                                  - /url: https://buymeacoffee.com/yadagirireddy
+                                                  - img [ref=f23e88]
+                                                  - generic: Buy me a coffee
+                                              - insertion [ref=f23e104]
+                                              - generic [ref=f23e106]:
+                                                - heading "Subscribe to YouTube channels" [level=2] [ref=f23e108]
+                                                - generic [ref=f23e109]:
+                                                  - iframe [ref=f23e111]:
+                                                    - generic [ref=f48e2]:
+                                                      - link:
+                                                        - /url: /channel/UCzFPWBdClpZ9afmmyhho4Rg
+                                                        - img [ref=f48e6] [cursor=pointer]
+                                                      - link "H Y R Tutorials" [ref=f48e7] [cursor=pointer]:
+                                                        - /url: /channel/UCzFPWBdClpZ9afmmyhho4Rg
+                                                      - generic [ref=f48e8]:
+                                                        - button "YouTube" [ref=f48e9] [cursor=pointer]:
+                                                          - generic "YouTube" [ref=f48e11]
+                                                        - button "73K" [ref=f48e12]
+                                                  - iframe [ref=f23e113]:
+                                                    - generic [ref=f49e2]:
+                                                      - link:
+                                                        - /url: /channel/UC1Bbtdbpfert8leeKx2mssw
+                                                        - img [ref=f49e6] [cursor=pointer]
+                                                      - link "H Y R Tutorials - Telugu" [ref=f49e7] [cursor=pointer]:
+                                                        - /url: /channel/UC1Bbtdbpfert8leeKx2mssw
+                                                      - generic [ref=f49e8]:
+                                                        - button "YouTube" [ref=f49e9] [cursor=pointer]:
+                                                          - generic "YouTube" [ref=f49e11]
+                                                        - button "146K" [ref=f49e12]
+                                              - generic [ref=f23e114]:
+                                                - heading "Telegram" [level=2] [ref=f23e116]
+                                                - link "Join Telegram Channel" [ref=f23e118] [cursor=pointer]:
+                                                  - /url: https://xn--r1a.click/hyrtutorials
+                                                  - img [ref=f23e119]
+                                                  - text: Join Telegram Channel
+                                              - heading "Facebook" [level=2] [ref=f23e124]
+                                              - generic [ref=f23e130]:
+                                                - heading "Twitter" [level=2] [ref=f23e132]
+                                                - iframe [ref=f23e134]:
+                                                  - link "Follow @hyrtutorials" [ref=f82e4] [cursor=pointer]:
+                                                    - /url: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fwww.hyrtutorials.com%2F&ref_src=twsrc%5Etfw%7Ctwcamp%5Ebuttonembed%7Ctwterm%5Efollow%7Ctwgr%5Ehyrtutorials&region=follow_link&screen_name=hyrtutorials
+                                                    - generic [ref=f82e6]: Follow @hyrtutorials
+                                              - insertion [ref=f23e136]
+                                            - generic [ref=f23e138]:
+                                              - list [ref=f23e139]:
+                                                - listitem [ref=f23e140]:
+                                                  - link "Popular" [ref=f23e141] [cursor=pointer]:
+                                                    - /url: "#tabside1"
+                                                - listitem [ref=f23e142]:
+                                                  - link "Recent" [ref=f23e143] [cursor=pointer]:
+                                                    - /url: "#tabside2"
+                                                - listitem [ref=f23e144]:
+                                                  - link "Comments" [ref=f23e145] [cursor=pointer]:
+                                                    - /url: "#tabside3"
+                                              - list [ref=f23e149]:
+                                                - listitem [ref=f23e150]:
+                                                  - generic [ref=f23e151]:
+                                                    - link "Arrays%20(Single-dimensional)%20in%20Java" [ref=f23e153] [cursor=pointer]:
+                                                      - /url: https://www.hyrtutorials.com/2023/04/arrays-in-java.html
+                                                      - img "Arrays%20(Single-dimensional)%20in%20Java" [ref=f23e154]
+                                                    - link "Arrays in Java" [ref=f23e156] [cursor=pointer]:
+                                                      - /url: https://www.hyrtutorials.com/2023/04/arrays-in-java.html
+                                                - listitem [ref=f23e157]:
+                                                  - generic [ref=f23e158]:
+                                                    - link "31" [ref=f23e160] [cursor=pointer]:
+                                                      - /url: https://www.hyrtutorials.com/2023/04/print-the-English-Alphabet-in-Upper-case-and-Lower-case.html
+                                                      - img "31" [ref=f23e161]
+                                                    - link "Write a java program to print the English Alphabet in Upper case and Lower case" [ref=f23e163] [cursor=pointer]:
+                                                      - /url: https://www.hyrtutorials.com/2023/04/print-the-English-Alphabet-in-Upper-case-and-Lower-case.html
+                                                - listitem [ref=f23e164]:
+                                                  - generic [ref=f23e165]:
+                                                    - link "30" [ref=f23e167] [cursor=pointer]:
+                                                      - /url: https://www.hyrtutorials.com/2023/04/factors-of-a-given-number.html
+                                                      - img "30" [ref=f23e168]
+                                                    - link "Write a java program to print the factors of a given number" [ref=f23e170] [cursor=pointer]:
+                                                      - /url: https://www.hyrtutorials.com/2023/04/factors-of-a-given-number.html
+                                                - listitem [ref=f23e171]:
+                                                  - generic [ref=f23e172]:
+                                                    - link "Apache+maven" [ref=f23e174] [cursor=pointer]:
+                                                      - /url: https://www.hyrtutorials.com/2019/09/maven-uninstallation-on-microsoft.html
+                                                      - img "Apache+maven" [ref=f23e175]
+                                                    - link "Maven uninstallation on Microsoft Windows" [ref=f23e177] [cursor=pointer]:
+                                                      - /url: https://www.hyrtutorials.com/2019/09/maven-uninstallation-on-microsoft.html
+                                                - listitem [ref=f23e178]:
+                                                  - generic [ref=f23e179]:
+                                                    - link "Cucumber+Eclipse+pluggin" [ref=f23e181] [cursor=pointer]:
+                                                      - /url: https://www.hyrtutorials.com/2019/09/how-to-install-cucumber-eclipse-plugin.html
+                                                      - img "Cucumber+Eclipse+pluggin" [ref=f23e182]
+                                                    - link "How to install Cucumber Eclipse Plugin" [ref=f23e184] [cursor=pointer]:
+                                                      - /url: https://www.hyrtutorials.com/2019/09/how-to-install-cucumber-eclipse-plugin.html
+                                              - insertion [ref=f23e186]
+                                              - text:     
+                                            - generic [ref=f23e188]:
+                                              - generic [ref=f23e189]:
+                                                - heading "Archive" [level=2] [ref=f23e191]
+                                                - combobox [ref=f23e195]:
+                                                  - option "Archive" [selected]
+                                                  - option "April (4)"
+                                                  - option "March (10)"
+                                                  - option "February (10)"
+                                                  - option "January (13)"
+                                                  - option "December (5)"
+                                                  - option "October (5)"
+                                                  - option "September (2)"
+                                                  - option "June (21)"
+                                                  - option "May (10)"
+                                                  - option "April (1)"
+                                                  - option "March (25)"
+                                                  - option "February (3)"
+                                                  - option "January (1)"
+                                                  - option "July (6)"
+                                                  - option "June (10)"
+                                                  - option "May (5)"
+                                                  - option "April (7)"
+                                                  - option "March (2)"
+                                                  - option "December (1)"
+                                                  - option "November (3)"
+                                                  - option "October (8)"
+                                                  - option "September (4)"
+                                                  - option "August (2)"
+                                                  - option "July (2)"
+                                                  - option "May (7)"
+                                                  - option "April (4)"
+                                                  - option "March (2)"
+                                                  - option "January (1)"
+                                                  - option "November (1)"
+                                                  - option "October (4)"
+                                                  - option "September (5)"
+                                                  - option "July (13)"
+                                                  - option "June (13)"
+                                                  - option "April (8)"
+                                                  - option "March (10)"
+                                                  - option "February (16)"
+                                                  - option "January (1)"
+                                                  - option "September (1)"
+                                                  - option "August (5)"
+                                              - generic [ref=f23e196]:
+                                                - heading "Tags" [level=2] [ref=f23e198]
+                                                - generic [ref=f23e199]:
+                                                  - link ".NET" [ref=f23e201] [cursor=pointer]:
+                                                    - /url: https://www.hyrtutorials.com/search/label/.NET?&max-results=6
+                                                  - link "Apache POI" [ref=f23e203] [cursor=pointer]:
+                                                    - /url: https://www.hyrtutorials.com/search/label/Apache%20POI?&max-results=6
+                                                  - link "AutomationTesting" [ref=f23e205] [cursor=pointer]:
+                                                    - /url: https://www.hyrtutorials.com/search/label/AutomationTesting?&max-results=6
+                                                  - link "Eclipse" [ref=f23e207] [cursor=pointer]:
+                                                    - /url: https://www.hyrtutorials.com/search/label/Eclipse?&max-results=6
+                                                  - link "Java" [ref=f23e209] [cursor=pointer]:
+                                                    - /url: https://www.hyrtutorials.com/search/label/Java?&max-results=6
+                                                  - link "Maven" [ref=f23e211] [cursor=pointer]:
+                                                    - /url: https://www.hyrtutorials.com/search/label/Maven?&max-results=6
+                                                  - link "Selenium" [ref=f23e213] [cursor=pointer]:
+                                                    - /url: https://www.hyrtutorials.com/search/label/Selenium?&max-results=6
+                                                  - link "Shorts" [ref=f23e215] [cursor=pointer]:
+                                                    - /url: https://www.hyrtutorials.com/search/label/Shorts?&max-results=6
+                                                  - link "SQL" [ref=f23e217] [cursor=pointer]:
+                                                    - /url: https://www.hyrtutorials.com/search/label/SQL?&max-results=6
+                                                  - link "TechNews" [ref=f23e219] [cursor=pointer]:
+                                                    - /url: https://www.hyrtutorials.com/search/label/TechNews?&max-results=6
+                                                  - link "Testing" [ref=f23e221] [cursor=pointer]:
+                                                    - /url: https://www.hyrtutorials.com/search/label/Testing?&max-results=6
+                                                  - link "TestNG" [ref=f23e223] [cursor=pointer]:
+                                                    - /url: https://www.hyrtutorials.com/search/label/TestNG?&max-results=6
+                                                  - link "Tutorials" [ref=f23e225] [cursor=pointer]:
+                                                    - /url: https://www.hyrtutorials.com/search/label/Tutorials?&max-results=6
+                                                  - link "Web Automation" [ref=f23e227] [cursor=pointer]:
+                                                    - /url: https://www.hyrtutorials.com/search/label/Web%20Automation?&max-results=6
+                                                  - link "Windows Automation" [ref=f23e229] [cursor=pointer]:
+                                                    - /url: https://www.hyrtutorials.com/search/label/Windows%20Automation?&max-results=6
+                                        - insertion [ref=f23e231]
+                                        - generic [ref=f23e234]:
+                                          - generic [ref=f23e235]:
+                                            - generic [ref=f23e237]:
+                                              - heading "Recent Tutorials" [level=2] [ref=f23e239]
+                                              - generic [ref=f23e241]:
+                                                - generic [ref=f23e242]:
+                                                  - link [ref=f23e243] [cursor=pointer]:
+                                                    - /url: https://www.hyrtutorials.com/2023/04/arrays-in-java.html
+                                                  - generic [ref=f23e245]:
+                                                    - heading "Arrays in Java" [level=3] [ref=f23e246]:
+                                                      - link "Arrays in Java" [ref=f23e247] [cursor=pointer]:
+                                                        - /url: https://www.hyrtutorials.com/2023/04/arrays-in-java.html
+                                                    - text: Yada Giri ReddyApr 16, 2023
+                                                - generic [ref=f23e248]:
+                                                  - link [ref=f23e249] [cursor=pointer]:
+                                                    - /url: https://www.hyrtutorials.com/2023/04/print-the-English-Alphabet-in-Upper-case-and-Lower-case.html
+                                                  - generic [ref=f23e251]:
+                                                    - heading "Write a java program to print the English Alphabet in Upper case and Lower case" [level=3] [ref=f23e252]:
+                                                      - link "Write a java program to print the English Alphabet in Upper case and Lower case" [ref=f23e253] [cursor=pointer]:
+                                                        - /url: https://www.hyrtutorials.com/2023/04/print-the-English-Alphabet-in-Upper-case-and-Lower-case.html
+                                                    - text: Yada Giri ReddyApr 08, 2023
+                                                - generic [ref=f23e254]:
+                                                  - link [ref=f23e255] [cursor=pointer]:
+                                                    - /url: https://www.hyrtutorials.com/2023/04/factors-of-a-given-number.html
+                                                  - generic [ref=f23e257]:
+                                                    - heading "Write a java program to print the factors of a given number" [level=3] [ref=f23e258]:
+                                                      - link "Write a java program to print the factors of a given number" [ref=f23e259] [cursor=pointer]:
+                                                        - /url: https://www.hyrtutorials.com/2023/04/factors-of-a-given-number.html
+                                                    - text: Yada Giri ReddyApr 05, 2023
+                                                - generic [ref=f23e260]:
+                                                  - link [ref=f23e261] [cursor=pointer]:
+                                                    - /url: https://www.hyrtutorials.com/2023/04/factorial-of-a-given number.html
+                                                  - generic [ref=f23e263]:
+                                                    - heading "Write a java program to print the factorial of a given number" [level=3] [ref=f23e264]:
+                                                      - link "Write a java program to print the factorial of a given number" [ref=f23e265] [cursor=pointer]:
+                                                        - /url: https://www.hyrtutorials.com/2023/04/factorial-of-a-given number.html
+                                                    - text: Yada Giri ReddyApr 02, 2023
+                                                - generic [ref=f23e266]:
+                                                  - link [ref=f23e267] [cursor=pointer]:
+                                                    - /url: https://www.hyrtutorials.com/2023/03/sumof-the-even-numbers-ranging-from-8-to-250-using-for-loop.html
+                                                  - generic [ref=f23e269]:
+                                                    - heading "Write a java program to print the sum of the even numbers ranging from 8 to 250 using for loop" [level=3] [ref=f23e270]:
+                                                      - link "Write a java program to print the sum of the even numbers ranging from 8 to 250 using for loop" [ref=f23e271] [cursor=pointer]:
+                                                        - /url: https://www.hyrtutorials.com/2023/03/sumof-the-even-numbers-ranging-from-8-to-250-using-for-loop.html
+                                                    - text: Yada Giri ReddyMar 30, 2023
+                                            - insertion [ref=f23e273]
+                                          - generic [ref=f23e275]:
+                                            - generic [ref=f23e276]:
+                                              - generic [ref=f23e277]:
+                                                - heading "Total Pageviews" [level=2] [ref=f23e279]
+                                                - generic [ref=f23e282]:
+                                                  - strong [ref=f23e284]: "1"
+                                                  - strong [ref=f23e287]: "4"
+                                                  - strong [ref=f23e290]: "0"
+                                                  - strong [ref=f23e293]: "0"
+                                                  - strong [ref=f23e296]: "1"
+                                                  - strong [ref=f23e299]: "2"
+                                                  - strong [ref=f23e302]: "9"
+                                                  - strong [ref=f23e305]: "2"
+                                              - generic [ref=f23e307]:
+                                                - heading [level=2] [ref=f23e309]
+                                                - list [ref=f23e311]:
+                                                  - listitem [ref=f23e312]:
+                                                    - link "How I Get Free Traffic from ChatGPT in 2025 (AIO vs SEO)" [ref=f23e314] [cursor=pointer]:
+                                                      - /url: https://techncruncher.blogspot.com/2025/12/how-i-get-free-traffic-from-chatgpt-in.html
+                                                    - text: "- 12/3/2025"
+                                                  - listitem [ref=f23e315]:
+                                                    - 'link "What is Blockchain: Everything You Need to Know (2025)" [ref=f23e317] [cursor=pointer]':
+                                                      - /url: https://techncruncher.blogspot.com/2025/11/what-is-blockchain-everything-you-need.html
+                                                    - text: "- 11/24/2025"
+                                                  - listitem [ref=f23e318]:
+                                                    - link "Top 10 AI Tools That Will Transform Your Content Creation in 2025" [ref=f23e320] [cursor=pointer]:
+                                                      - /url: https://techncruncher.blogspot.com/2025/01/top-10-ai-tools-that-will-transform.html
+                                                    - text: "- 1/2/2025"
+                                                  - listitem [ref=f23e321]:
+                                                    - 'link "LimeWire AI Studio Review 2023: Details, Pricing & Features" [ref=f23e323] [cursor=pointer]':
+                                                      - /url: https://techncruncher.blogspot.com/2023/12/limewire-ai-studio-review-2023-details.html
+                                                    - text: "- 12/12/2023"
+                                                  - listitem [ref=f23e324]:
+                                                    - link "Top 10 AI Tools in 2023 That Will Make Your Life Easier" [ref=f23e326] [cursor=pointer]:
+                                                      - /url: https://techncruncher.blogspot.com/2023/01/top-10-ai-tools-in-2023-that-will-make.html
+                                                    - text: "- 1/25/2023"
+                                            - insertion [ref=f23e328]
+                                          - generic [ref=f23e331]:
+                                            - generic [ref=f23e332]:
+                                              - heading "Connect With us" [level=2] [ref=f23e334]
+                                              - list [ref=f23e336]:
+                                                - listitem [ref=f23e337]:
+                                                  - link "" [ref=f23e338] [cursor=pointer]:
+                                                    - /url: https://facebook.com/HYRTutorials
+                                                    - generic [ref=f23e339]: 
+                                                - listitem [ref=f23e340]:
+                                                  - link "" [ref=f23e341] [cursor=pointer]:
+                                                    - /url: https://github.com/YadaGiriReddy/HYR-Tutorials
+                                                    - generic [ref=f23e342]: 
+                                                - listitem [ref=f23e343]:
+                                                  - link "" [ref=f23e344] [cursor=pointer]:
+                                                    - /url: https://www.instagram.com/hyrtutorials
+                                                    - generic [ref=f23e345]: 
+                                                - listitem [ref=f23e346]:
+                                                  - link "" [ref=f23e347] [cursor=pointer]:
+                                                    - /url: https://linkedin.com/company/hyrtutorials
+                                                    - generic [ref=f23e348]: 
+                                                - listitem [ref=f23e349]:
+                                                  - link "" [ref=f23e350] [cursor=pointer]:
+                                                    - /url: https://t.me/hyrtutorials
+                                                    - generic [ref=f23e351]: 
+                                                - listitem [ref=f23e352]:
+                                                  - link "" [ref=f23e353] [cursor=pointer]:
+                                                    - /url: https://youtube.com/hyrtutorials
+                                                    - generic [ref=f23e354]: 
+                                            - generic [ref=f23e355]:
+                                              - heading "Categories" [level=2] [ref=f23e357]
+                                              - generic [ref=f23e358]:
+                                                - link "Tutorials" [ref=f23e360] [cursor=pointer]:
+                                                  - /url: https://www.hyrtutorials.com/search/label/Tutorials?&max-results=6
+                                                - link "Java" [ref=f23e362] [cursor=pointer]:
+                                                  - /url: https://www.hyrtutorials.com/search/label/Java?&max-results=6
+                                                - link "Testing" [ref=f23e364] [cursor=pointer]:
+                                                  - /url: https://www.hyrtutorials.com/search/label/Testing?&max-results=6
+                                                - link "AutomationTesting" [ref=f23e366] [cursor=pointer]:
+                                                  - /url: https://www.hyrtutorials.com/search/label/AutomationTesting?&max-results=6
+                                                - link "Web Automation" [ref=f23e368] [cursor=pointer]:
+                                                  - /url: https://www.hyrtutorials.com/search/label/Web%20Automation?&max-results=6
+                                                - link "TechNews" [ref=f23e370] [cursor=pointer]:
+                                                  - /url: https://www.hyrtutorials.com/search/label/TechNews?&max-results=6
+                                                - link "Selenium" [ref=f23e372] [cursor=pointer]:
+                                                  - /url: https://www.hyrtutorials.com/search/label/Selenium?&max-results=6
+                                                - link "Shorts" [ref=f23e374] [cursor=pointer]:
+                                                  - /url: https://www.hyrtutorials.com/search/label/Shorts?&max-results=6
+                                                - link "TestNG" [ref=f23e376] [cursor=pointer]:
+                                                  - /url: https://www.hyrtutorials.com/search/label/TestNG?&max-results=6
+                                                - link "SQL" [ref=f23e378] [cursor=pointer]:
+                                                  - /url: https://www.hyrtutorials.com/search/label/SQL?&max-results=6
+                                                - link "Eclipse" [ref=f23e380] [cursor=pointer]:
+                                                  - /url: https://www.hyrtutorials.com/search/label/Eclipse?&max-results=6
+                                                - link "Maven" [ref=f23e382] [cursor=pointer]:
+                                                  - /url: https://www.hyrtutorials.com/search/label/Maven?&max-results=6
+                                                - link "Apache POI" [ref=f23e384] [cursor=pointer]:
+                                                  - /url: https://www.hyrtutorials.com/search/label/Apache%20POI?&max-results=6
+                                                - link ".NET" [ref=f23e386] [cursor=pointer]:
+                                                  - /url: https://www.hyrtutorials.com/search/label/.NET?&max-results=6
+                                                - link "Windows Automation" [ref=f23e388] [cursor=pointer]:
+                                                  - /url: https://www.hyrtutorials.com/search/label/Windows%20Automation?&max-results=6
+                                        - insertion [ref=f23e390]
+                                        - generic [ref=f23e393]:
+                                          - generic [ref=f23e394]:
+                                            - text: Copyrights @ H Y R Tutorials - Designed by
+                                            - link "Yada Giri Reddy" [ref=f23e395] [cursor=pointer]:
+                                              - /url: https://www.linkedin.com/in/hyadagirireddy/
+                                          - generic [ref=f23e396]:
+                                            - text: Crafted with  by
+                                            - link "TemplatesYard" [ref=f23e397] [cursor=pointer]:
+                                              - /url: http://www.templatesyard.com/
+                                            - text: "| Distributed by"
+                                            - link "Blogger Themes" [ref=f23e398] [cursor=pointer]:
+                                              - /url: http://www.mybloggerthemes.com/
+                                        - text: 
+                                      - iframe [ref=f23e399]:
+                                        
+                                - generic [ref=f18e77]:
+                                  - heading "Frame2:" [level=3] [ref=f18e78]
+                                  - iframe [ref=f18e79]: <p>Your browser does not support iframes.</p>:
+                                    - generic [active] [ref=f24e1]:
+                                      - generic [ref=f24e2]:
+                                        - generic [ref=f24e4]:
+                                          - list [ref=f24e8]:
+                                            - listitem [ref=f24e9]:
+                                              - link "" [ref=f24e10] [cursor=pointer]:
+                                                - /url: https://www.facebook.com/HYRTutorials/
+                                            - listitem [ref=f24e11]:
+                                              - link "" [ref=f24e12] [cursor=pointer]:
+                                                - /url: https://twitter.com/hyrtutorials
+                                            - listitem [ref=f24e13]:
+                                              - link "" [ref=f24e14] [cursor=pointer]:
+                                                - /url: https://github.com/YadaGiriReddy/
+                                            - listitem [ref=f24e15]:
+                                              - link "" [ref=f24e16] [cursor=pointer]:
+                                                - /url: https://www.instagram.com/hyrtutorials/
+                                            - listitem [ref=f24e17]:
+                                              - link "" [ref=f24e18] [cursor=pointer]:
+                                                - /url: https://www.linkedin.com/company/hyrtutorials/
+                                            - listitem [ref=f24e19]:
+                                              - link "" [ref=f24e20] [cursor=pointer]:
+                                                - /url: https://www.youtube.com/hyrtutorials
+                                          - generic [ref=f24e25]:
+                                            - text: 
+                                            - combobox [ref=f24e26]:
+                                              - option "Menu" [selected]
+                                              - option
+                                              - option "Home"
+                                              - option "Contact"
+                                        - generic [ref=f24e28]:
+                                          - link "HYR" [ref=f24e33] [cursor=pointer]:
+                                            - /url: https://www.hyrtutorials.com/
+                                            - img "HYR" [ref=f24e34]
+                                          - insertion [ref=f24e39]:
+                                            - generic [ref=f24e41]:
+                                              - generic "These are topics related to the article that might interest you" [ref=f24e42]: Discover more
+                                              - link "Programming Editor" [ref=f24e43] [cursor=pointer]:
+                                                - img [ref=f24e45]
+                                                - text: Programming Editor
+                                              - link "Factor Calculation Tool" [ref=f24e47] [cursor=pointer]:
+                                                - img [ref=f24e49]
+                                                - text: Factor Calculation Tool
+                                              - link "Java Programming Book" [ref=f24e51] [cursor=pointer]:
+                                                - img [ref=f24e53]
+                                                - text: Java Programming Book
+                                              - link "Broken Link Checker" [ref=f24e55] [cursor=pointer]:
+                                                - img [ref=f24e57]
+                                                - text: Broken Link Checker
+                                              - link "Cloud computing platform access" [ref=f24e59] [cursor=pointer]:
+                                                - img [ref=f24e61]
+                                                - text: Cloud computing platform access
+                                              - link "Programming language tutorials" [ref=f24e63] [cursor=pointer]:
+                                                - img [ref=f24e65]
+                                                - text: Programming language tutorials
+                                        - generic [ref=f24e68]:
+                                          - listitem [ref=f24e69]:
+                                            - link " Home" [ref=f24e70] [cursor=pointer]:
+                                              - /url: https://www.hyrtutorials.com/
+                                              - generic [ref=f24e71]: 
+                                              - text: Home
+                                          - generic [ref=f24e73]:
+                                            - text:   
+                                            - combobox [ref=f24e74]:
+                                              - option "Menu"
+                                              - option "Tech News"
+                                              - option "Tutorials"
+                                              - option "- Dot Net"
+                                              - option "- SQL"
+                                              - option "- Java"
+                                              - option "- Testing"
+                                              - option "-- Selenium"
+                                              - option "-- Automation Testing"
+                                              - option "-- Other"
+                                              - option "YouTube Courses"
+                                              - option "- English"
+                                              - option "-- Apache POI"
+                                              - option "-- Apache PDFBox"
+                                              - option "-- Core Java"
+                                              - option "-- CSS Selectors"
+                                              - option "-- Extent Reports"
+                                              - option "-- JavaScriptExecutor"
+                                              - option "-- TestNG"
+                                              - option "-- XPath"
+                                              - option "- Telugu"
+                                              - option "-- Core Java"
+                                              - option "-- Selenium Java"
+                                              - option "Selenium Practice"
+                                              - option "- Broken Links"
+                                              - option "-- Link1"
+                                              - option "- CSS Selectors Practice"
+                                              - option "- XPath Practice"
+                                              - option "- Frames Practice"
+                                              - option "- Waits Practice"
+                                              - option "- Window Handles"
+                                              - option "- Basic Controls" [selected]
+                                              - option "- Dropdowns"
+                                              - option "- Alerts"
+                                              - option "- Calendars Practice"
+                                              - option "Contact"
+                                        - generic [ref=f24e75]:
+                                          - generic [ref=f24e81]:
+                                            - heading "Basic Controls" [level=1] [ref=f24e84]
+                                            - article [ref=f24e85]:
+                                              - generic [ref=f24e87]:
+                                                - separator [ref=f24e88]
+                                                - generic [ref=f24e89]:
+                                                  - heading "Basic Controls in HTML" [level=1] [ref=f24e90]
+                                                  - generic [ref=f24e91]: "In HTML we have some basic controls we use often, those are:"
+                                                  - list [ref=f24e93]:
+                                                    - listitem [ref=f24e94]: Textbox
+                                                    - listitem [ref=f24e95]: Radiobutton
+                                                    - listitem [ref=f24e96]: Checkbox
+                                                    - listitem [ref=f24e97]: Link
+                                                    - listitem [ref=f24e98]: Button
+                                                    - listitem [ref=f24e99]: Label
+                                                  - text: This page can be used for practicing the above controls using selenium
+                                                  - separator [ref=f24e100]
+                                                  - generic [ref=f24e101]: First Name
+                                                  - textbox "Enter First Name" [ref=f24e102]
+                                                  - generic [ref=f24e103]: Last Name
+                                                  - textbox "Enter Last Name" [ref=f24e104]
+                                                  - generic [ref=f24e105]: Gender
+                                                  - radio [checked] [ref=f24e106]
+                                                  - text: Male
+                                                  - radio [ref=f24e107]
+                                                  - text: Female
+                                                  - generic [ref=f24e108]: Languages known
+                                                  - checkbox [ref=f24e109]
+                                                  - text: English
+                                                  - checkbox [ref=f24e110]
+                                                  - text: Hindi
+                                                  - checkbox [ref=f24e111]
+                                                  - text: Chinese
+                                                  - checkbox [ref=f24e112]
+                                                  - text: Spanish
+                                                  - checkbox [ref=f24e113]
+                                                  - text: Latin
+                                                  - checkbox [ref=f24e114]
+                                                  - text: French
+                                                  - generic [ref=f24e115]: Email
+                                                  - textbox "Enter Email" [ref=f24e116]
+                                                  - generic [ref=f24e117]: Password
+                                                  - textbox "Enter Password" [ref=f24e118]
+                                                  - separator [ref=f24e119]
+                                                  - generic [ref=f24e120]:
+                                                    - button "Register" [ref=f24e121]
+                                                    - button "Clear" [ref=f24e122]
+                                                    - link "Click here to navigate to the home page" [ref=f24e123] [cursor=pointer]:
+                                                      - /url: https://hyrtutorials.blogspot.com/
+                                          - generic [ref=f24e125]:
+                                            - generic [ref=f24e126]:
+                                              - generic [ref=f24e127]:
+                                                - heading "Support My Work" [level=2] [ref=f24e129]
+                                                - link "Buy me a coffee" [ref=f24e132] [cursor=pointer]:
+                                                  - /url: https://buymeacoffee.com/yadagirireddy
+                                                  - img [ref=f24e133]
+                                                  - generic: Buy me a coffee
+                                              - insertion [ref=f24e149]
+                                              - generic [ref=f24e151]:
+                                                - heading "Subscribe to YouTube channels" [level=2] [ref=f24e153]
+                                                - generic [ref=f24e154]:
+                                                  - iframe [ref=f24e156]:
+                                                    - generic [ref=f54e2]:
+                                                      - link:
+                                                        - /url: /channel/UCzFPWBdClpZ9afmmyhho4Rg
+                                                        - img [ref=f54e6] [cursor=pointer]
+                                                      - link "H Y R Tutorials" [ref=f54e7] [cursor=pointer]:
+                                                        - /url: /channel/UCzFPWBdClpZ9afmmyhho4Rg
+                                                      - generic [ref=f54e8]:
+                                                        - button "YouTube" [ref=f54e9] [cursor=pointer]:
+                                                          - generic "YouTube" [ref=f54e11]
+                                                        - button "73K" [ref=f54e12]
+                                                  - iframe [ref=f24e158]:
+                                                    - generic [ref=f55e2]:
+                                                      - link:
+                                                        - /url: /channel/UC1Bbtdbpfert8leeKx2mssw
+                                                        - img [ref=f55e6] [cursor=pointer]
+                                                      - link "H Y R Tutorials - Telugu" [ref=f55e7] [cursor=pointer]:
+                                                        - /url: /channel/UC1Bbtdbpfert8leeKx2mssw
+                                                      - generic [ref=f55e8]:
+                                                        - button "YouTube" [ref=f55e9] [cursor=pointer]:
+                                                          - generic "YouTube" [ref=f55e11]
+                                                        - button "146K" [ref=f55e12]
+                                              - generic [ref=f24e159]:
+                                                - heading "Telegram" [level=2] [ref=f24e161]
+                                                - link "Join Telegram Channel" [ref=f24e163] [cursor=pointer]:
+                                                  - /url: https://xn--r1a.click/hyrtutorials
+                                                  - img [ref=f24e164]
+                                                  - text: Join Telegram Channel
+                                              - heading "Facebook" [level=2] [ref=f24e169]
+                                              - generic [ref=f24e175]:
+                                                - heading "Twitter" [level=2] [ref=f24e177]
+                                                - iframe [ref=f24e179]:
+                                                  - link "Follow @hyrtutorials" [ref=f83e4] [cursor=pointer]:
+                                                    - /url: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fwww.hyrtutorials.com%2F&ref_src=twsrc%5Etfw%7Ctwcamp%5Ebuttonembed%7Ctwterm%5Efollow%7Ctwgr%5Ehyrtutorials&region=follow_link&screen_name=hyrtutorials
+                                                    - generic [ref=f83e6]: Follow @hyrtutorials
+                                              - insertion [ref=f24e181]
+                                            - generic [ref=f24e183]:
+                                              - list [ref=f24e184]:
+                                                - listitem [ref=f24e185]:
+                                                  - link "Popular" [ref=f24e186] [cursor=pointer]:
+                                                    - /url: "#tabside1"
+                                                - listitem [ref=f24e187]:
+                                                  - link "Recent" [ref=f24e188] [cursor=pointer]:
+                                                    - /url: "#tabside2"
+                                                - listitem [ref=f24e189]:
+                                                  - link "Comments" [ref=f24e190] [cursor=pointer]:
+                                                    - /url: "#tabside3"
+                                              - list [ref=f24e194]:
+                                                - listitem [ref=f24e195]:
+                                                  - generic [ref=f24e196]:
+                                                    - link "Arrays%20(Single-dimensional)%20in%20Java" [ref=f24e198] [cursor=pointer]:
+                                                      - /url: https://www.hyrtutorials.com/2023/04/arrays-in-java.html
+                                                      - img "Arrays%20(Single-dimensional)%20in%20Java" [ref=f24e199]
+                                                    - link "Arrays in Java" [ref=f24e201] [cursor=pointer]:
+                                                      - /url: https://www.hyrtutorials.com/2023/04/arrays-in-java.html
+                                                - listitem [ref=f24e202]:
+                                                  - generic [ref=f24e203]:
+                                                    - link "31" [ref=f24e205] [cursor=pointer]:
+                                                      - /url: https://www.hyrtutorials.com/2023/04/print-the-English-Alphabet-in-Upper-case-and-Lower-case.html
+                                                      - img "31" [ref=f24e206]
+                                                    - link "Write a java program to print the English Alphabet in Upper case and Lower case" [ref=f24e208] [cursor=pointer]:
+                                                      - /url: https://www.hyrtutorials.com/2023/04/print-the-English-Alphabet-in-Upper-case-and-Lower-case.html
+                                                - listitem [ref=f24e209]:
+                                                  - generic [ref=f24e210]:
+                                                    - link "30" [ref=f24e212] [cursor=pointer]:
+                                                      - /url: https://www.hyrtutorials.com/2023/04/factors-of-a-given-number.html
+                                                      - img "30" [ref=f24e213]
+                                                    - link "Write a java program to print the factors of a given number" [ref=f24e215] [cursor=pointer]:
+                                                      - /url: https://www.hyrtutorials.com/2023/04/factors-of-a-given-number.html
+                                                - listitem [ref=f24e216]:
+                                                  - generic [ref=f24e217]:
+                                                    - link "Apache+maven" [ref=f24e219] [cursor=pointer]:
+                                                      - /url: https://www.hyrtutorials.com/2019/09/maven-uninstallation-on-microsoft.html
+                                                      - img "Apache+maven" [ref=f24e220]
+                                                    - link "Maven uninstallation on Microsoft Windows" [ref=f24e222] [cursor=pointer]:
+                                                      - /url: https://www.hyrtutorials.com/2019/09/maven-uninstallation-on-microsoft.html
+                                                - listitem [ref=f24e223]:
+                                                  - generic [ref=f24e224]:
+                                                    - link "Cucumber+Eclipse+pluggin" [ref=f24e226] [cursor=pointer]:
+                                                      - /url: https://www.hyrtutorials.com/2019/09/how-to-install-cucumber-eclipse-plugin.html
+                                                      - img "Cucumber+Eclipse+pluggin" [ref=f24e227]
+                                                    - link "How to install Cucumber Eclipse Plugin" [ref=f24e229] [cursor=pointer]:
+                                                      - /url: https://www.hyrtutorials.com/2019/09/how-to-install-cucumber-eclipse-plugin.html
+                                              - insertion [ref=f24e231]
+                                              - text:     
+                                            - generic [ref=f24e233]:
+                                              - generic [ref=f24e234]:
+                                                - heading "Archive" [level=2] [ref=f24e236]
+                                                - combobox [ref=f24e240]:
+                                                  - option "Archive" [selected]
+                                                  - option "April (4)"
+                                                  - option "March (10)"
+                                                  - option "February (10)"
+                                                  - option "January (13)"
+                                                  - option "December (5)"
+                                                  - option "October (5)"
+                                                  - option "September (2)"
+                                                  - option "June (21)"
+                                                  - option "May (10)"
+                                                  - option "April (1)"
+                                                  - option "March (25)"
+                                                  - option "February (3)"
+                                                  - option "January (1)"
+                                                  - option "July (6)"
+                                                  - option "June (10)"
+                                                  - option "May (5)"
+                                                  - option "April (7)"
+                                                  - option "March (2)"
+                                                  - option "December (1)"
+                                                  - option "November (3)"
+                                                  - option "October (8)"
+                                                  - option "September (4)"
+                                                  - option "August (2)"
+                                                  - option "July (2)"
+                                                  - option "May (7)"
+                                                  - option "April (4)"
+                                                  - option "March (2)"
+                                                  - option "January (1)"
+                                                  - option "November (1)"
+                                                  - option "October (4)"
+                                                  - option "September (5)"
+                                                  - option "July (13)"
+                                                  - option "June (13)"
+                                                  - option "April (8)"
+                                                  - option "March (10)"
+                                                  - option "February (16)"
+                                                  - option "January (1)"
+                                                  - option "September (1)"
+                                                  - option "August (5)"
+                                              - generic [ref=f24e241]:
+                                                - heading "Tags" [level=2] [ref=f24e243]
+                                                - generic [ref=f24e244]:
+                                                  - link ".NET" [ref=f24e246] [cursor=pointer]:
+                                                    - /url: https://www.hyrtutorials.com/search/label/.NET?&max-results=6
+                                                  - link "Apache POI" [ref=f24e248] [cursor=pointer]:
+                                                    - /url: https://www.hyrtutorials.com/search/label/Apache%20POI?&max-results=6
+                                                  - link "AutomationTesting" [ref=f24e250] [cursor=pointer]:
+                                                    - /url: https://www.hyrtutorials.com/search/label/AutomationTesting?&max-results=6
+                                                  - link "Eclipse" [ref=f24e252] [cursor=pointer]:
+                                                    - /url: https://www.hyrtutorials.com/search/label/Eclipse?&max-results=6
+                                                  - link "Java" [ref=f24e254] [cursor=pointer]:
+                                                    - /url: https://www.hyrtutorials.com/search/label/Java?&max-results=6
+                                                  - link "Maven" [ref=f24e256] [cursor=pointer]:
+                                                    - /url: https://www.hyrtutorials.com/search/label/Maven?&max-results=6
+                                                  - link "Selenium" [ref=f24e258] [cursor=pointer]:
+                                                    - /url: https://www.hyrtutorials.com/search/label/Selenium?&max-results=6
+                                                  - link "Shorts" [ref=f24e260] [cursor=pointer]:
+                                                    - /url: https://www.hyrtutorials.com/search/label/Shorts?&max-results=6
+                                                  - link "SQL" [ref=f24e262] [cursor=pointer]:
+                                                    - /url: https://www.hyrtutorials.com/search/label/SQL?&max-results=6
+                                                  - link "TechNews" [ref=f24e264] [cursor=pointer]:
+                                                    - /url: https://www.hyrtutorials.com/search/label/TechNews?&max-results=6
+                                                  - link "Testing" [ref=f24e266] [cursor=pointer]:
+                                                    - /url: https://www.hyrtutorials.com/search/label/Testing?&max-results=6
+                                                  - link "TestNG" [ref=f24e268] [cursor=pointer]:
+                                                    - /url: https://www.hyrtutorials.com/search/label/TestNG?&max-results=6
+                                                  - link "Tutorials" [ref=f24e270] [cursor=pointer]:
+                                                    - /url: https://www.hyrtutorials.com/search/label/Tutorials?&max-results=6
+                                                  - link "Web Automation" [ref=f24e272] [cursor=pointer]:
+                                                    - /url: https://www.hyrtutorials.com/search/label/Web%20Automation?&max-results=6
+                                                  - link "Windows Automation" [ref=f24e274] [cursor=pointer]:
+                                                    - /url: https://www.hyrtutorials.com/search/label/Windows%20Automation?&max-results=6
+                                        - insertion [ref=f24e276]
+                                        - generic [ref=f24e279]:
+                                          - generic [ref=f24e280]:
+                                            - generic [ref=f24e282]:
+                                              - heading "Recent Tutorials" [level=2] [ref=f24e284]
+                                              - generic [ref=f24e286]:
+                                                - generic [ref=f24e287]:
+                                                  - link [ref=f24e288] [cursor=pointer]:
+                                                    - /url: https://www.hyrtutorials.com/2023/04/arrays-in-java.html
+                                                  - generic [ref=f24e290]:
+                                                    - heading "Arrays in Java" [level=3] [ref=f24e291]:
+                                                      - link "Arrays in Java" [ref=f24e292] [cursor=pointer]:
+                                                        - /url: https://www.hyrtutorials.com/2023/04/arrays-in-java.html
+                                                    - text: Yada Giri ReddyApr 16, 2023
+                                                - generic [ref=f24e293]:
+                                                  - link [ref=f24e294] [cursor=pointer]:
+                                                    - /url: https://www.hyrtutorials.com/2023/04/print-the-English-Alphabet-in-Upper-case-and-Lower-case.html
+                                                  - generic [ref=f24e296]:
+                                                    - heading "Write a java program to print the English Alphabet in Upper case and Lower case" [level=3] [ref=f24e297]:
+                                                      - link "Write a java program to print the English Alphabet in Upper case and Lower case" [ref=f24e298] [cursor=pointer]:
+                                                        - /url: https://www.hyrtutorials.com/2023/04/print-the-English-Alphabet-in-Upper-case-and-Lower-case.html
+                                                    - text: Yada Giri ReddyApr 08, 2023
+                                                - generic [ref=f24e299]:
+                                                  - link [ref=f24e300] [cursor=pointer]:
+                                                    - /url: https://www.hyrtutorials.com/2023/04/factors-of-a-given-number.html
+                                                  - generic [ref=f24e302]:
+                                                    - heading "Write a java program to print the factors of a given number" [level=3] [ref=f24e303]:
+                                                      - link "Write a java program to print the factors of a given number" [ref=f24e304] [cursor=pointer]:
+                                                        - /url: https://www.hyrtutorials.com/2023/04/factors-of-a-given-number.html
+                                                    - text: Yada Giri ReddyApr 05, 2023
+                                                - generic [ref=f24e305]:
+                                                  - link [ref=f24e306] [cursor=pointer]:
+                                                    - /url: https://www.hyrtutorials.com/2023/04/factorial-of-a-given number.html
+                                                  - generic [ref=f24e308]:
+                                                    - heading "Write a java program to print the factorial of a given number" [level=3] [ref=f24e309]:
+                                                      - link "Write a java program to print the factorial of a given number" [ref=f24e310] [cursor=pointer]:
+                                                        - /url: https://www.hyrtutorials.com/2023/04/factorial-of-a-given number.html
+                                                    - text: Yada Giri ReddyApr 02, 2023
+                                                - generic [ref=f24e311]:
+                                                  - link [ref=f24e312] [cursor=pointer]:
+                                                    - /url: https://www.hyrtutorials.com/2023/03/sumof-the-even-numbers-ranging-from-8-to-250-using-for-loop.html
+                                                  - generic [ref=f24e314]:
+                                                    - heading "Write a java program to print the sum of the even numbers ranging from 8 to 250 using for loop" [level=3] [ref=f24e315]:
+                                                      - link "Write a java program to print the sum of the even numbers ranging from 8 to 250 using for loop" [ref=f24e316] [cursor=pointer]:
+                                                        - /url: https://www.hyrtutorials.com/2023/03/sumof-the-even-numbers-ranging-from-8-to-250-using-for-loop.html
+                                                    - text: Yada Giri ReddyMar 30, 2023
+                                            - insertion [ref=f24e318]
+                                          - generic [ref=f24e320]:
+                                            - generic [ref=f24e321]:
+                                              - generic [ref=f24e322]:
+                                                - heading "Total Pageviews" [level=2] [ref=f24e324]
+                                                - generic [ref=f24e327]:
+                                                  - strong [ref=f24e329]: "1"
+                                                  - strong [ref=f24e332]: "4"
+                                                  - strong [ref=f24e335]: "0"
+                                                  - strong [ref=f24e338]: "0"
+                                                  - strong [ref=f24e341]: "1"
+                                                  - strong [ref=f24e344]: "2"
+                                                  - strong [ref=f24e347]: "9"
+                                                  - strong [ref=f24e350]: "3"
+                                              - generic [ref=f24e352]:
+                                                - heading [level=2] [ref=f24e354]
+                                                - list [ref=f24e356]:
+                                                  - listitem [ref=f24e357]:
+                                                    - link "How I Get Free Traffic from ChatGPT in 2025 (AIO vs SEO)" [ref=f24e359] [cursor=pointer]:
+                                                      - /url: https://techncruncher.blogspot.com/2025/12/how-i-get-free-traffic-from-chatgpt-in.html
+                                                    - text: "- 12/3/2025"
+                                                  - listitem [ref=f24e360]:
+                                                    - 'link "What is Blockchain: Everything You Need to Know (2025)" [ref=f24e362] [cursor=pointer]':
+                                                      - /url: https://techncruncher.blogspot.com/2025/11/what-is-blockchain-everything-you-need.html
+                                                    - text: "- 11/24/2025"
+                                                  - listitem [ref=f24e363]:
+                                                    - link "Top 10 AI Tools That Will Transform Your Content Creation in 2025" [ref=f24e365] [cursor=pointer]:
+                                                      - /url: https://techncruncher.blogspot.com/2025/01/top-10-ai-tools-that-will-transform.html
+                                                    - text: "- 1/2/2025"
+                                                  - listitem [ref=f24e366]:
+                                                    - 'link "LimeWire AI Studio Review 2023: Details, Pricing & Features" [ref=f24e368] [cursor=pointer]':
+                                                      - /url: https://techncruncher.blogspot.com/2023/12/limewire-ai-studio-review-2023-details.html
+                                                    - text: "- 12/12/2023"
+                                                  - listitem [ref=f24e369]:
+                                                    - link "Top 10 AI Tools in 2023 That Will Make Your Life Easier" [ref=f24e371] [cursor=pointer]:
+                                                      - /url: https://techncruncher.blogspot.com/2023/01/top-10-ai-tools-in-2023-that-will-make.html
+                                                    - text: "- 1/25/2023"
+                                            - insertion [ref=f24e373]
+                                          - generic [ref=f24e376]:
+                                            - generic [ref=f24e377]:
+                                              - heading "Connect With us" [level=2] [ref=f24e379]
+                                              - list [ref=f24e381]:
+                                                - listitem [ref=f24e382]:
+                                                  - link "" [ref=f24e383] [cursor=pointer]:
+                                                    - /url: https://facebook.com/HYRTutorials
+                                                    - generic [ref=f24e384]: 
+                                                - listitem [ref=f24e385]:
+                                                  - link "" [ref=f24e386] [cursor=pointer]:
+                                                    - /url: https://github.com/YadaGiriReddy/HYR-Tutorials
+                                                    - generic [ref=f24e387]: 
+                                                - listitem [ref=f24e388]:
+                                                  - link "" [ref=f24e389] [cursor=pointer]:
+                                                    - /url: https://www.instagram.com/hyrtutorials
+                                                    - generic [ref=f24e390]: 
+                                                - listitem [ref=f24e391]:
+                                                  - link "" [ref=f24e392] [cursor=pointer]:
+                                                    - /url: https://linkedin.com/company/hyrtutorials
+                                                    - generic [ref=f24e393]: 
+                                                - listitem [ref=f24e394]:
+                                                  - link "" [ref=f24e395] [cursor=pointer]:
+                                                    - /url: https://t.me/hyrtutorials
+                                                    - generic [ref=f24e396]: 
+                                                - listitem [ref=f24e397]:
+                                                  - link "" [ref=f24e398] [cursor=pointer]:
+                                                    - /url: https://youtube.com/hyrtutorials
+                                                    - generic [ref=f24e399]: 
+                                            - generic [ref=f24e400]:
+                                              - heading "Categories" [level=2] [ref=f24e402]
+                                              - generic [ref=f24e403]:
+                                                - link "Tutorials" [ref=f24e405] [cursor=pointer]:
+                                                  - /url: https://www.hyrtutorials.com/search/label/Tutorials?&max-results=6
+                                                - link "Java" [ref=f24e407] [cursor=pointer]:
+                                                  - /url: https://www.hyrtutorials.com/search/label/Java?&max-results=6
+                                                - link "Testing" [ref=f24e409] [cursor=pointer]:
+                                                  - /url: https://www.hyrtutorials.com/search/label/Testing?&max-results=6
+                                                - link "AutomationTesting" [ref=f24e411] [cursor=pointer]:
+                                                  - /url: https://www.hyrtutorials.com/search/label/AutomationTesting?&max-results=6
+                                                - link "Web Automation" [ref=f24e413] [cursor=pointer]:
+                                                  - /url: https://www.hyrtutorials.com/search/label/Web%20Automation?&max-results=6
+                                                - link "TechNews" [ref=f24e415] [cursor=pointer]:
+                                                  - /url: https://www.hyrtutorials.com/search/label/TechNews?&max-results=6
+                                                - link "Selenium" [ref=f24e417] [cursor=pointer]:
+                                                  - /url: https://www.hyrtutorials.com/search/label/Selenium?&max-results=6
+                                                - link "Shorts" [ref=f24e419] [cursor=pointer]:
+                                                  - /url: https://www.hyrtutorials.com/search/label/Shorts?&max-results=6
+                                                - link "TestNG" [ref=f24e421] [cursor=pointer]:
+                                                  - /url: https://www.hyrtutorials.com/search/label/TestNG?&max-results=6
+                                                - link "SQL" [ref=f24e423] [cursor=pointer]:
+                                                  - /url: https://www.hyrtutorials.com/search/label/SQL?&max-results=6
+                                                - link "Eclipse" [ref=f24e425] [cursor=pointer]:
+                                                  - /url: https://www.hyrtutorials.com/search/label/Eclipse?&max-results=6
+                                                - link "Maven" [ref=f24e427] [cursor=pointer]:
+                                                  - /url: https://www.hyrtutorials.com/search/label/Maven?&max-results=6
+                                                - link "Apache POI" [ref=f24e429] [cursor=pointer]:
+                                                  - /url: https://www.hyrtutorials.com/search/label/Apache%20POI?&max-results=6
+                                                - link ".NET" [ref=f24e431] [cursor=pointer]:
+                                                  - /url: https://www.hyrtutorials.com/search/label/.NET?&max-results=6
+                                                - link "Windows Automation" [ref=f24e433] [cursor=pointer]:
+                                                  - /url: https://www.hyrtutorials.com/search/label/Windows%20Automation?&max-results=6
+                                        - insertion [ref=f24e435]
+                                        - generic [ref=f24e438]:
+                                          - generic [ref=f24e439]:
+                                            - text: Copyrights @ H Y R Tutorials - Designed by
+                                            - link "Yada Giri Reddy" [ref=f24e440] [cursor=pointer]:
+                                              - /url: https://www.linkedin.com/in/hyadagirireddy/
+                                          - generic [ref=f24e441]:
+                                            - text: Crafted with  by
+                                            - link "TemplatesYard" [ref=f24e442] [cursor=pointer]:
+                                              - /url: http://www.templatesyard.com/
+                                            - text: "| Distributed by"
+                                            - link "Blogger Themes" [ref=f24e443] [cursor=pointer]:
+                                              - /url: http://www.mybloggerthemes.com/
+                                        - text: 
+                                      - iframe [ref=f24e444]:
+                                        
+                                - generic [ref=f18e80]:
+                                  - heading "Frame3:" [level=3] [ref=f18e81]
+                                  - iframe [ref=f18e82]: <p>Your browser does not support iframes.</p>:
+                                    
+                        - generic [ref=f18e84]:
+                          - generic [ref=f18e85]:
+                            - generic [ref=f18e86]:
+                              - heading "Support My Work" [level=2] [ref=f18e88]
+                              - link "Buy me a coffee" [ref=f18e91] [cursor=pointer]:
+                                - /url: https://buymeacoffee.com/yadagirireddy
+                                - img [ref=f18e92]
+                                - generic: Buy me a coffee
+                            - generic [ref=f18e107]:
+                              - heading "Subscribe to YouTube channels" [level=2] [ref=f18e109]
+                              - generic [ref=f18e110]:
+                                - iframe [ref=f18e112]:
+                                  - generic [ref=f35e2]:
+                                    - link:
+                                      - /url: /channel/UCzFPWBdClpZ9afmmyhho4Rg
+                                      - img [ref=f35e6] [cursor=pointer]
+                                    - link "H Y R Tutorials" [ref=f35e7] [cursor=pointer]:
+                                      - /url: /channel/UCzFPWBdClpZ9afmmyhho4Rg
+                                    - generic [ref=f35e8]:
+                                      - button "YouTube" [ref=f35e9] [cursor=pointer]:
+                                        - generic "YouTube" [ref=f35e11]
+                                      - button "73K" [ref=f35e12]
+                                - iframe [ref=f18e114]:
+                                  - generic [ref=f36e2]:
+                                    - link:
+                                      - /url: /channel/UC1Bbtdbpfert8leeKx2mssw
+                                      - img [ref=f36e6] [cursor=pointer]
+                                    - link "H Y R Tutorials - Telugu" [ref=f36e7] [cursor=pointer]:
+                                      - /url: /channel/UC1Bbtdbpfert8leeKx2mssw
+                                    - generic [ref=f36e8]:
+                                      - button "YouTube" [ref=f36e9] [cursor=pointer]:
+                                        - generic "YouTube" [ref=f36e11]
+                                      - button "146K" [ref=f36e12]
+                            - generic [ref=f18e115]:
+                              - heading "Telegram" [level=2] [ref=f18e117]
+                              - link "Join Telegram Channel" [ref=f18e119] [cursor=pointer]:
+                                - /url: https://xn--r1a.click/hyrtutorials
+                                - img [ref=f18e120]
+                                - text: Join Telegram Channel
+                            - heading "Facebook" [level=2] [ref=f18e125]
+                            - generic [ref=f18e126]:
+                              - heading "Twitter" [level=2] [ref=f18e128]
+                              - iframe [ref=f18e130]:
+                                - link "Follow @hyrtutorials" [ref=f70e4] [cursor=pointer]:
+                                  - /url: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fwww.hyrtutorials.com%2F&ref_src=twsrc%5Etfw%7Ctwcamp%5Ebuttonembed%7Ctwterm%5Efollow%7Ctwgr%5Ehyrtutorials&region=follow_link&screen_name=hyrtutorials
+                                  - generic [ref=f70e6]: Follow @hyrtutorials
+                          - generic [ref=f18e131]:
+                            - list [ref=f18e132]:
+                              - listitem [ref=f18e133]:
+                                - link "Popular" [ref=f18e134] [cursor=pointer]:
+                                  - /url: "#tabside1"
+                              - listitem [ref=f18e135]:
+                                - link "Recent" [ref=f18e136] [cursor=pointer]:
+                                  - /url: "#tabside2"
+                              - listitem [ref=f18e137]:
+                                - link "Comments" [ref=f18e138] [cursor=pointer]:
+                                  - /url: "#tabside3"
+                            - list [ref=f18e142]:
+                              - listitem [ref=f18e143]:
+                                - generic [ref=f18e144]:
+                                  - link "Arrays%20(Single-dimensional)%20in%20Java" [ref=f18e146] [cursor=pointer]:
+                                    - /url: https://www.hyrtutorials.com/2023/04/arrays-in-java.html
+                                    - img "Arrays%20(Single-dimensional)%20in%20Java" [ref=f18e147]
+                                  - link "Arrays in Java" [ref=f18e149] [cursor=pointer]:
+                                    - /url: https://www.hyrtutorials.com/2023/04/arrays-in-java.html
+                              - listitem [ref=f18e150]:
+                                - generic [ref=f18e151]:
+                                  - link "31" [ref=f18e153] [cursor=pointer]:
+                                    - /url: https://www.hyrtutorials.com/2023/04/print-the-English-Alphabet-in-Upper-case-and-Lower-case.html
+                                    - img "31" [ref=f18e154]
+                                  - link "Write a java program to print the English Alphabet in Upper case and Lower case" [ref=f18e156] [cursor=pointer]:
+                                    - /url: https://www.hyrtutorials.com/2023/04/print-the-English-Alphabet-in-Upper-case-and-Lower-case.html
+                              - listitem [ref=f18e157]:
+                                - generic [ref=f18e158]:
+                                  - link "30" [ref=f18e160] [cursor=pointer]:
+                                    - /url: https://www.hyrtutorials.com/2023/04/factors-of-a-given-number.html
+                                    - img "30" [ref=f18e161]
+                                  - link "Write a java program to print the factors of a given number" [ref=f18e163] [cursor=pointer]:
+                                    - /url: https://www.hyrtutorials.com/2023/04/factors-of-a-given-number.html
+                              - listitem [ref=f18e164]:
+                                - generic [ref=f18e165]:
+                                  - link "Apache+maven" [ref=f18e167] [cursor=pointer]:
+                                    - /url: https://www.hyrtutorials.com/2019/09/maven-uninstallation-on-microsoft.html
+                                    - img "Apache+maven" [ref=f18e168]
+                                  - link "Maven uninstallation on Microsoft Windows" [ref=f18e170] [cursor=pointer]:
+                                    - /url: https://www.hyrtutorials.com/2019/09/maven-uninstallation-on-microsoft.html
+                              - listitem [ref=f18e171]:
+                                - generic [ref=f18e172]:
+                                  - link "Cucumber+Eclipse+pluggin" [ref=f18e174] [cursor=pointer]:
+                                    - /url: https://www.hyrtutorials.com/2019/09/how-to-install-cucumber-eclipse-plugin.html
+                                    - img "Cucumber+Eclipse+pluggin" [ref=f18e175]
+                                  - link "How to install Cucumber Eclipse Plugin" [ref=f18e177] [cursor=pointer]:
+                                    - /url: https://www.hyrtutorials.com/2019/09/how-to-install-cucumber-eclipse-plugin.html
+                            - text:     
+                          - generic [ref=f18e178]:
+                            - generic [ref=f18e179]:
+                              - heading "Archive" [level=2] [ref=f18e181]
+                              - combobox [ref=f18e185]:
+                                - option "Archive" [selected]
+                                - option "April (4)"
+                                - option "March (10)"
+                                - option "February (10)"
+                                - option "January (13)"
+                                - option "December (5)"
+                                - option "October (5)"
+                                - option "September (2)"
+                                - option "June (21)"
+                                - option "May (10)"
+                                - option "April (1)"
+                                - option "March (25)"
+                                - option "February (3)"
+                                - option "January (1)"
+                                - option "July (6)"
+                                - option "June (10)"
+                                - option "May (5)"
+                                - option "April (7)"
+                                - option "March (2)"
+                                - option "December (1)"
+                                - option "November (3)"
+                                - option "October (8)"
+                                - option "September (4)"
+                                - option "August (2)"
+                                - option "July (2)"
+                                - option "May (7)"
+                                - option "April (4)"
+                                - option "March (2)"
+                                - option "January (1)"
+                                - option "November (1)"
+                                - option "October (4)"
+                                - option "September (5)"
+                                - option "July (13)"
+                                - option "June (13)"
+                                - option "April (8)"
+                                - option "March (10)"
+                                - option "February (16)"
+                                - option "January (1)"
+                                - option "September (1)"
+                                - option "August (5)"
+                            - generic [ref=f18e186]:
+                              - heading "Tags" [level=2] [ref=f18e188]
+                              - generic [ref=f18e189]:
+                                - link ".NET" [ref=f18e191] [cursor=pointer]:
+                                  - /url: https://www.hyrtutorials.com/search/label/.NET?&max-results=6
+                                - link "Apache POI" [ref=f18e193] [cursor=pointer]:
+                                  - /url: https://www.hyrtutorials.com/search/label/Apache%20POI?&max-results=6
+                                - link "AutomationTesting" [ref=f18e195] [cursor=pointer]:
+                                  - /url: https://www.hyrtutorials.com/search/label/AutomationTesting?&max-results=6
+                                - link "Eclipse" [ref=f18e197] [cursor=pointer]:
+                                  - /url: https://www.hyrtutorials.com/search/label/Eclipse?&max-results=6
+                                - link "Java" [ref=f18e199] [cursor=pointer]:
+                                  - /url: https://www.hyrtutorials.com/search/label/Java?&max-results=6
+                                - link "Maven" [ref=f18e201] [cursor=pointer]:
+                                  - /url: https://www.hyrtutorials.com/search/label/Maven?&max-results=6
+                                - link "Selenium" [ref=f18e203] [cursor=pointer]:
+                                  - /url: https://www.hyrtutorials.com/search/label/Selenium?&max-results=6
+                                - link "Shorts" [ref=f18e205] [cursor=pointer]:
+                                  - /url: https://www.hyrtutorials.com/search/label/Shorts?&max-results=6
+                                - link "SQL" [ref=f18e207] [cursor=pointer]:
+                                  - /url: https://www.hyrtutorials.com/search/label/SQL?&max-results=6
+                                - link "TechNews" [ref=f18e209] [cursor=pointer]:
+                                  - /url: https://www.hyrtutorials.com/search/label/TechNews?&max-results=6
+                                - link "Testing" [ref=f18e211] [cursor=pointer]:
+                                  - /url: https://www.hyrtutorials.com/search/label/Testing?&max-results=6
+                                - link "TestNG" [ref=f18e213] [cursor=pointer]:
+                                  - /url: https://www.hyrtutorials.com/search/label/TestNG?&max-results=6
+                                - link "Tutorials" [ref=f18e215] [cursor=pointer]:
+                                  - /url: https://www.hyrtutorials.com/search/label/Tutorials?&max-results=6
+                                - link "Web Automation" [ref=f18e217] [cursor=pointer]:
+                                  - /url: https://www.hyrtutorials.com/search/label/Web%20Automation?&max-results=6
+                                - link "Windows Automation" [ref=f18e219] [cursor=pointer]:
+                                  - /url: https://www.hyrtutorials.com/search/label/Windows%20Automation?&max-results=6
+                      - generic [ref=f18e221]:
+                        - generic [ref=f18e224]:
+                          - heading "Recent Tutorials" [level=2] [ref=f18e226]
+                          - generic [ref=f18e228]:
+                            - generic [ref=f18e229]:
+                              - link [ref=f18e230] [cursor=pointer]:
+                                - /url: https://www.hyrtutorials.com/2023/04/arrays-in-java.html
+                              - generic [ref=f18e232]:
+                                - heading "Arrays in Java" [level=3] [ref=f18e233]:
+                                  - link "Arrays in Java" [ref=f18e234] [cursor=pointer]:
+                                    - /url: https://www.hyrtutorials.com/2023/04/arrays-in-java.html
+                                - text: Yada Giri ReddyApr 16, 2023
+                            - generic [ref=f18e235]:
+                              - link [ref=f18e236] [cursor=pointer]:
+                                - /url: https://www.hyrtutorials.com/2023/04/print-the-English-Alphabet-in-Upper-case-and-Lower-case.html
+                              - generic [ref=f18e238]:
+                                - heading "Write a java program to print the English Alphabet in Upper case and Lower case" [level=3] [ref=f18e239]:
+                                  - link "Write a java program to print the English Alphabet in Upper case and Lower case" [ref=f18e240] [cursor=pointer]:
+                                    - /url: https://www.hyrtutorials.com/2023/04/print-the-English-Alphabet-in-Upper-case-and-Lower-case.html
+                                - text: Yada Giri ReddyApr 08, 2023
+                            - generic [ref=f18e241]:
+                              - link [ref=f18e242] [cursor=pointer]:
+                                - /url: https://www.hyrtutorials.com/2023/04/factors-of-a-given-number.html
+                              - generic [ref=f18e244]:
+                                - heading "Write a java program to print the factors of a given number" [level=3] [ref=f18e245]:
+                                  - link "Write a java program to print the factors of a given number" [ref=f18e246] [cursor=pointer]:
+                                    - /url: https://www.hyrtutorials.com/2023/04/factors-of-a-given-number.html
+                                - text: Yada Giri ReddyApr 05, 2023
+                            - generic [ref=f18e247]:
+                              - link [ref=f18e248] [cursor=pointer]:
+                                - /url: https://www.hyrtutorials.com/2023/04/factorial-of-a-given number.html
+                              - generic [ref=f18e250]:
+                                - heading "Write a java program to print the factorial of a given number" [level=3] [ref=f18e251]:
+                                  - link "Write a java program to print the factorial of a given number" [ref=f18e252] [cursor=pointer]:
+                                    - /url: https://www.hyrtutorials.com/2023/04/factorial-of-a-given number.html
+                                - text: Yada Giri ReddyApr 02, 2023
+                            - generic [ref=f18e253]:
+                              - link [ref=f18e254] [cursor=pointer]:
+                                - /url: https://www.hyrtutorials.com/2023/03/sumof-the-even-numbers-ranging-from-8-to-250-using-for-loop.html
+                              - generic [ref=f18e256]:
+                                - heading "Write a java program to print the sum of the even numbers ranging from 8 to 250 using for loop" [level=3] [ref=f18e257]:
+                                  - link "Write a java program to print the sum of the even numbers ranging from 8 to 250 using for loop" [ref=f18e258] [cursor=pointer]:
+                                    - /url: https://www.hyrtutorials.com/2023/03/sumof-the-even-numbers-ranging-from-8-to-250-using-for-loop.html
+                                - text: Yada Giri ReddyMar 30, 2023
+                        - generic [ref=f18e260]:
+                          - generic [ref=f18e261]:
+                            - heading "Total Pageviews" [level=2] [ref=f18e263]
+                            - generic [ref=f18e266]:
+                              - strong [ref=f18e268]: "1"
+                              - strong [ref=f18e271]: "4"
+                              - strong [ref=f18e274]: "0"
+                              - strong [ref=f18e277]: "0"
+                              - strong [ref=f18e280]: "1"
+                              - strong [ref=f18e283]: "2"
+                              - strong [ref=f18e286]: "8"
+                              - strong [ref=f18e289]: "7"
+                          - generic [ref=f18e291]:
+                            - heading [level=2] [ref=f18e293]
+                            - list [ref=f18e295]:
+                              - listitem [ref=f18e296]:
+                                - link "How I Get Free Traffic from ChatGPT in 2025 (AIO vs SEO)" [ref=f18e298] [cursor=pointer]:
+                                  - /url: https://techncruncher.blogspot.com/2025/12/how-i-get-free-traffic-from-chatgpt-in.html
+                                - text: "- 12/3/2025"
+                              - listitem [ref=f18e299]:
+                                - 'link "What is Blockchain: Everything You Need to Know (2025)" [ref=f18e301] [cursor=pointer]':
+                                  - /url: https://techncruncher.blogspot.com/2025/11/what-is-blockchain-everything-you-need.html
+                                - text: "- 11/24/2025"
+                              - listitem [ref=f18e302]:
+                                - link "Top 10 AI Tools That Will Transform Your Content Creation in 2025" [ref=f18e304] [cursor=pointer]:
+                                  - /url: https://techncruncher.blogspot.com/2025/01/top-10-ai-tools-that-will-transform.html
+                                - text: "- 1/2/2025"
+                              - listitem [ref=f18e305]:
+                                - 'link "LimeWire AI Studio Review 2023: Details, Pricing & Features" [ref=f18e307] [cursor=pointer]':
+                                  - /url: https://techncruncher.blogspot.com/2023/12/limewire-ai-studio-review-2023-details.html
+                                - text: "- 12/12/2023"
+                              - listitem [ref=f18e308]:
+                                - link "Top 10 AI Tools in 2023 That Will Make Your Life Easier" [ref=f18e310] [cursor=pointer]:
+                                  - /url: https://techncruncher.blogspot.com/2023/01/top-10-ai-tools-in-2023-that-will-make.html
+                                - text: "- 1/25/2023"
+                        - generic [ref=f18e312]:
+                          - generic [ref=f18e313]:
+                            - heading "Connect With us" [level=2] [ref=f18e315]
+                            - list [ref=f18e317]:
+                              - listitem [ref=f18e318]:
+                                - link "" [ref=f18e319] [cursor=pointer]:
+                                  - /url: https://facebook.com/HYRTutorials
+                                  - generic [ref=f18e320]: 
+                              - listitem [ref=f18e321]:
+                                - link "" [ref=f18e322] [cursor=pointer]:
+                                  - /url: https://github.com/YadaGiriReddy/HYR-Tutorials
+                                  - generic [ref=f18e323]: 
+                              - listitem [ref=f18e324]:
+                                - link "" [ref=f18e325] [cursor=pointer]:
+                                  - /url: https://www.instagram.com/hyrtutorials
+                                  - generic [ref=f18e326]: 
+                              - listitem [ref=f18e327]:
+                                - link "" [ref=f18e328] [cursor=pointer]:
+                                  - /url: https://linkedin.com/company/hyrtutorials
+                                  - generic [ref=f18e329]: 
+                              - listitem [ref=f18e330]:
+                                - link "" [ref=f18e331] [cursor=pointer]:
+                                  - /url: https://t.me/hyrtutorials
+                                  - generic [ref=f18e332]: 
+                              - listitem [ref=f18e333]:
+                                - link "" [ref=f18e334] [cursor=pointer]:
+                                  - /url: https://youtube.com/hyrtutorials
+                                  - generic [ref=f18e335]: 
+                          - generic [ref=f18e336]:
+                            - heading "Categories" [level=2] [ref=f18e338]
+                            - generic [ref=f18e339]:
+                              - link "Tutorials" [ref=f18e341] [cursor=pointer]:
+                                - /url: https://www.hyrtutorials.com/search/label/Tutorials?&max-results=6
+                              - link "Java" [ref=f18e343] [cursor=pointer]:
+                                - /url: https://www.hyrtutorials.com/search/label/Java?&max-results=6
+                              - link "Testing" [ref=f18e345] [cursor=pointer]:
+                                - /url: https://www.hyrtutorials.com/search/label/Testing?&max-results=6
+                              - link "AutomationTesting" [ref=f18e347] [cursor=pointer]:
+                                - /url: https://www.hyrtutorials.com/search/label/AutomationTesting?&max-results=6
+                              - link "Web Automation" [ref=f18e349] [cursor=pointer]:
+                                - /url: https://www.hyrtutorials.com/search/label/Web%20Automation?&max-results=6
+                              - link "TechNews" [ref=f18e351] [cursor=pointer]:
+                                - /url: https://www.hyrtutorials.com/search/label/TechNews?&max-results=6
+                              - link "Selenium" [ref=f18e353] [cursor=pointer]:
+                                - /url: https://www.hyrtutorials.com/search/label/Selenium?&max-results=6
+                              - link "Shorts" [ref=f18e355] [cursor=pointer]:
+                                - /url: https://www.hyrtutorials.com/search/label/Shorts?&max-results=6
+                              - link "TestNG" [ref=f18e357] [cursor=pointer]:
+                                - /url: https://www.hyrtutorials.com/search/label/TestNG?&max-results=6
+                              - link "SQL" [ref=f18e359] [cursor=pointer]:
+                                - /url: https://www.hyrtutorials.com/search/label/SQL?&max-results=6
+                              - link "Eclipse" [ref=f18e361] [cursor=pointer]:
+                                - /url: https://www.hyrtutorials.com/search/label/Eclipse?&max-results=6
+                              - link "Maven" [ref=f18e363] [cursor=pointer]:
+                                - /url: https://www.hyrtutorials.com/search/label/Maven?&max-results=6
+                              - link "Apache POI" [ref=f18e365] [cursor=pointer]:
+                                - /url: https://www.hyrtutorials.com/search/label/Apache%20POI?&max-results=6
+                              - link ".NET" [ref=f18e367] [cursor=pointer]:
+                                - /url: https://www.hyrtutorials.com/search/label/.NET?&max-results=6
+                              - link "Windows Automation" [ref=f18e369] [cursor=pointer]:
+                                - /url: https://www.hyrtutorials.com/search/label/Windows%20Automation?&max-results=6
+                      - generic [ref=f18e371]:
+                        - generic [ref=f18e372]:
+                          - text: Copyrights @ H Y R Tutorials - Designed by
+                          - link "Yada Giri Reddy" [ref=f18e373] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/in/hyadagirireddy/
+                        - generic [ref=f18e374]:
+                          - text: Crafted with  by
+                          - link "TemplatesYard" [ref=f18e375] [cursor=pointer]:
+                            - /url: http://www.templatesyard.com/
+                          - text: "| Distributed by"
+                          - link "Blogger Themes" [ref=f18e376] [cursor=pointer]:
+                            - /url: http://www.mybloggerthemes.com/
+                      - text: 
+                    - iframe [ref=f18e377]:
+                      
+      - generic [ref=e103]:
+        - generic [ref=e104]:
+          - generic [ref=e105]:
+            - heading "Support My Work" [level=2] [ref=e107]
+            - link "Buy me a coffee" [ref=e110] [cursor=pointer]:
+              - /url: https://buymeacoffee.com/yadagirireddy
+              - img [ref=e111]
+              - generic: Buy me a coffee
+          - generic [ref=e126]:
+            - heading "Subscribe to YouTube channels" [level=2] [ref=e128]
+            - generic [ref=e129]:
+              - iframe [ref=e131]:
+                - generic [ref=f19e2]:
+                  - link:
+                    - /url: /channel/UCzFPWBdClpZ9afmmyhho4Rg
+                    - img [ref=f19e6] [cursor=pointer]
+                  - link "H Y R Tutorials" [ref=f19e7] [cursor=pointer]:
+                    - /url: /channel/UCzFPWBdClpZ9afmmyhho4Rg
+                  - generic [ref=f19e8]:
+                    - button "YouTube" [ref=f19e9] [cursor=pointer]:
+                      - generic "YouTube" [ref=f19e11]
+                    - button "73K" [ref=f19e12]
+              - iframe [ref=e133]:
+                - generic [ref=f20e2]:
+                  - link:
+                    - /url: /channel/UC1Bbtdbpfert8leeKx2mssw
+                    - img [ref=f20e6] [cursor=pointer]
+                  - link "H Y R Tutorials - Telugu" [ref=f20e7] [cursor=pointer]:
+                    - /url: /channel/UC1Bbtdbpfert8leeKx2mssw
+                  - generic [ref=f20e8]:
+                    - button "YouTube" [ref=f20e9] [cursor=pointer]:
+                      - generic "YouTube" [ref=f20e11]
+                    - button "146K" [ref=f20e12]
+          - generic [ref=e134]:
+            - heading "Telegram" [level=2] [ref=e136]
+            - link "Join Telegram Channel" [ref=e138] [cursor=pointer]:
+              - /url: https://xn--r1a.click/hyrtutorials
+              - img [ref=e139]
+              - text: Join Telegram Channel
+          - heading "Facebook" [level=2] [ref=e144]
+          - generic [ref=e145]:
+            - heading "Twitter" [level=2] [ref=e147]
+            - iframe [ref=e149]:
+              - link "Follow @hyrtutorials" [ref=f61e4] [cursor=pointer]:
+                - /url: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fwww.hyrtutorials.com%2F&ref_src=twsrc%5Etfw%7Ctwcamp%5Ebuttonembed%7Ctwterm%5Efollow%7Ctwgr%5Ehyrtutorials&region=follow_link&screen_name=hyrtutorials
+                - generic [ref=f61e6]: Follow @hyrtutorials
+          - insertion [ref=e151]:
+            - iframe [ref=e153]:
+              - iframe [ref=f44e1]:
+                - generic [ref=f72e3]:
+                  - link [ref=f72e4] [cursor=pointer]:
+                    - /url: //www.admaster.cc/privacy
+                    - img [ref=f72e5]
+                  - link "This Pic Is Not Edited, Look Closer This Pic Is Not Edited, Look Closer App Cute" [ref=f72e7] [cursor=pointer]:
+                    - /url: https://tracenep.admaster.cc/ju/ic?tn=2ce2e6e33746b4224011d22068a89c02&trackingid=9c585a9c2fcf5aee6f6a4fa0d9d9814c&acid=31054&data=sR65SsmhGDh_anLDfMqPvmkiklY64kREkQfM2YhyB5cjwXrWp3P0OyojFtAvHoRNIMxPUZh_l2cB7yja2R1FR7QnB6y4QI83SiIPFeJ4oxxEHJpp9OtFhSsBSjiZ6djKBAmhQH2QZcIdYrY-N4aHW-P27ueFmFQ955SxIXQ89zrGneeuc8fuPhMDsIKyptCOAmVFmX4xkYL44TJ-E2rXHqj3tpHe25n7MH0-wjN6X7aH1pA7F6BV0x2gC7xt6lLYLmeolkc22hqCHZLEZxq35G2EEcIaPFVBh2_L59CzDH0yYrwfwBkaDIFCl7gPQXhoJ1P0Mg3KVhxoTKJisC17HXHDpseqpeo3wwpxC4TqjIJcVdlAlQ9SoMjLyPtG5PSoA9ATHcy-KuFMctiUC23LXPa1J9HAIwdgyl33xDoHiNzFLtoP5MObv2BqbHO-ALekFAD1qCmuare7C06S5URHc-2uzimPY3sYUkC_dlJ2qggLUG77NwinnPpGHpmWju2IVR6VLydTWPcgFrC6Ls7RgZm53ZNPfn-y1Sm8_vByjqo39zfRcVG4mqI4ZK29jEZHlwHPMqhlBVA63e5tEawoTLxDTmZnLfgBp5V7aCZBbLFgL49IcAB6ga7rThcZQ8sRD_3xE_P4Oh78kUXHFA6y1vKzOqrxqHFBK4o2igI7a83IElbO8mK8W_5aIJzLfu6AZwSsFFoa4V7EyaGAVMNy2-ZYuU2tllrFQ4FszmHindlP0-CFvK_a-YTmk0moaGUAKwD9jQsjaapnW7c2smvyR20AHqqogASMgyUQqojQNqdQQ9Px2vXkkdA7pqlJV4Tz6V03bi9WWZTQ49b0l9PpLWoCRx4JZb-t51O01q7fgiiSKDUHLG2qxzr7aVoqGnwX85HWpNa-rq7f0tlmLTJ-he_Z0bQ2fmLh6AOABupT4khIuC6tLVw00zL2L9ftm3YoJr2DXOFlaOOC8sFVlkJqiMVE7SzGi0mnfo13k-t8MkSHdBbpF6z0xQV2GyxBvrq-28dJ9vOjePOoeaY1qqQ8NkJRaY0p0gda4fYabvURaqJypmARH9VGokNwRmeOriK2MAUl7UeKxHHioqA0ZVZMTeA2dEbUs82gNjybnfKDGvf_gb9Wu8CLHhlVnX-vtBVkM_WesExSNsNjn9elG2n7chwQRIvIcT3838aYC3Oa4ORrZlrEZLdFboJvNC-gFmuizXaRg2UuZhOxxdheaKzsOx5JGU0P3EhZwhDSVfwZ06y0oqrHrELVdJfqfXqNXGgxipMUmo_TGPe_Pa6akJ9HQcpmg5fsuezAY_sFrvdbHW_A2yRRwR1m_XoSetIAw4rJ0net17T_odXnlo4U50aVORNQFqRqmA9oNPbNNzoqI75T3rNJ-O8NPIkau1XxycbL9C20Bryj5HFGapdsUsr436GH5pCfjEP9jUvKfLuADcD4QdSpYPMu8JuAT6_-BtJLVTLrQ_b8vsRkoWbtyJFjovnrzno9AihjiHeA-tvlXaAPItkn7FAwRyNn53V1vApI-kGD0-UsA8usHMc058oELNVFOeCmzXIwW4HFnUNnprdchh2IABLZukJqy_z76iE18oxGJKK__8YDsxkKiOG76HUiRu139axc9hIoQTWAxwGvKykBv8FZM-gvbEODjw4r8Uc3oSp9ty0bIc9d-6yEpKUd1GIdmgXqc_S_4yJvbN7SlS1a2qXaChsENCX42NdwuxwIs8-yhHijga4wn8iUPuiwtFfbRmPk-Hrb9CrRYvhZluGosrD9gGCLJ2RaJrVFYaq3MnAK23a7eqS6qEFwVt1XiHiGbirRZrgm1oRZUX36BCdFW5ql7GyQ7PDpI9PnpiJ4L-VgN9yMJDG5DgI-9-dEOGpsmSkT0_ulA8DCnAM&uid=mid_63856a3142221b4f1326279689417a76&mguid=&ap=0.021817&tid=72&gprice=uuOvVmIJu2Y7mpq3Tshrhd2ESblHl_i-_-lBPoJkwfg&campaignid=4421282&google_click_url=https://adclick.g.doubleclick.net/aclk%3Fsa%3DL%26ai%3DCp2PShGxLad2kAZT5998P4K3ZmAultoSEe8z8yrWgE8CNtwEQASCYqMZwYMnm44bIo5AZyAEJqAMByAMCqgSJAk_QSMQjmcyVRDxBsFETWZplGQUvRC5QnMFl4cU5vaDASml5Bgt6K0TMLUEKORBP8gkhnLKzMxmTxCM2CfO0UuT31g0PbncJJJDsaTGWi987slNRYOFydSGugGtLGVv1GQOrFE1XbcG3n9kbtsQ7rZ30eANOYQ1Utqgbq7wdiI6-7JIT8EtZn_89F4M7r3bM1kNcK6Q2vvEKOpblL7GzJYQhA9R_5rP9mTQzAGpExDniY33fD6BkMwkyyUjVujn6LJBfJ4ugysKsgWyDjp7iFDOa6graZJnj0_ApRE2ZZEK9XZNFjggPmrvSEaqTNIc2FsLOUl-XYRJ3Duj9iyRReOl2n3XKNqKCUVKABqTHge7ou9nESKAGIagHpr4bqAeW2BuoB6qbsQKoB_-esQKoB9-fsQKoB62-sQKoB7_TsQLYBwDSCCwIgGEQATIIioKAgICAgAg6DYBAgMCAgICAqIACqANIvf3BOliL1cWEstWRA_oLAggBgAwBqg0CVVPqDRMI3KnPhLLVkQMVlPz9BR3gVhaziA4J0BUBgBcBshcEGAxQAQ%26num%3D1%26sig%3DAOD64_0D4H5TB8BLgNfdTpHKzidK7rYhwg%26client%3Dca-pub-2190203024692607%26adurl%3D
+                    - img "This Pic Is Not Edited, Look Closer" [ref=f72e8]
+                    - heading "This Pic Is Not Edited, Look Closer" [level=3] [ref=f72e9]
+                    - generic [ref=f72e10]: App Cute
+        - generic [ref=e154]:
+          - list [ref=e155]:
+            - listitem [ref=e156]:
+              - link "Popular" [ref=e157] [cursor=pointer]:
+                - /url: "#tabside1"
+            - listitem [ref=e158]:
+              - link "Recent" [ref=e159] [cursor=pointer]:
+                - /url: "#tabside2"
+            - listitem [ref=e160]:
+              - link "Comments" [ref=e161] [cursor=pointer]:
+                - /url: "#tabside3"
+          - list [ref=e165]:
+            - listitem [ref=e166]:
+              - generic [ref=e167]:
+                - link "Arrays%20(Single-dimensional)%20in%20Java" [ref=e169] [cursor=pointer]:
+                  - /url: https://www.hyrtutorials.com/2023/04/arrays-in-java.html
+                  - img "Arrays%20(Single-dimensional)%20in%20Java" [ref=e170]
+                - link "Arrays in Java" [ref=e172] [cursor=pointer]:
+                  - /url: https://www.hyrtutorials.com/2023/04/arrays-in-java.html
+            - listitem [ref=e173]:
+              - generic [ref=e174]:
+                - link "31" [ref=e176] [cursor=pointer]:
+                  - /url: https://www.hyrtutorials.com/2023/04/print-the-English-Alphabet-in-Upper-case-and-Lower-case.html
+                  - img "31" [ref=e177]
+                - link "Write a java program to print the English Alphabet in Upper case and Lower case" [ref=e179] [cursor=pointer]:
+                  - /url: https://www.hyrtutorials.com/2023/04/print-the-English-Alphabet-in-Upper-case-and-Lower-case.html
+            - listitem [ref=e180]:
+              - generic [ref=e181]:
+                - link "30" [ref=e183] [cursor=pointer]:
+                  - /url: https://www.hyrtutorials.com/2023/04/factors-of-a-given-number.html
+                  - img "30" [ref=e184]
+                - link "Write a java program to print the factors of a given number" [ref=e186] [cursor=pointer]:
+                  - /url: https://www.hyrtutorials.com/2023/04/factors-of-a-given-number.html
+            - listitem [ref=e187]:
+              - generic [ref=e188]:
+                - link "Apache+maven" [ref=e190] [cursor=pointer]:
+                  - /url: https://www.hyrtutorials.com/2019/09/maven-uninstallation-on-microsoft.html
+                  - img "Apache+maven" [ref=e191]
+                - link "Maven uninstallation on Microsoft Windows" [ref=e193] [cursor=pointer]:
+                  - /url: https://www.hyrtutorials.com/2019/09/maven-uninstallation-on-microsoft.html
+            - listitem [ref=e194]:
+              - generic [ref=e195]:
+                - link "Cucumber+Eclipse+pluggin" [ref=e197] [cursor=pointer]:
+                  - /url: https://www.hyrtutorials.com/2019/09/how-to-install-cucumber-eclipse-plugin.html
+                  - img "Cucumber+Eclipse+pluggin" [ref=e198]
+                - link "How to install Cucumber Eclipse Plugin" [ref=e200] [cursor=pointer]:
+                  - /url: https://www.hyrtutorials.com/2019/09/how-to-install-cucumber-eclipse-plugin.html
+          - insertion [ref=e202]:
+            - iframe [ref=e204]:
+              - iframe [ref=f45e1]:
+                - generic [ref=f79e2]:
+                  - iframe [ref=f79e5]:
+                    
+                  - generic [ref=f79e6]:
+                    - generic:
+                      - img [ref=f79e10] [cursor=pointer]
+                      - button [ref=f79e13] [cursor=pointer]:
+                        - img [ref=f79e14]
+          - text:     
+        - generic [ref=e205]:
+          - generic [ref=e206]:
+            - heading "Archive" [level=2] [ref=e208]
+            - combobox [ref=e212]:
+              - option "Archive" [selected]
+              - option "April (4)"
+              - option "March (10)"
+              - option "February (10)"
+              - option "January (13)"
+              - option "December (5)"
+              - option "October (5)"
+              - option "September (2)"
+              - option "June (21)"
+              - option "May (10)"
+              - option "April (1)"
+              - option "March (25)"
+              - option "February (3)"
+              - option "January (1)"
+              - option "July (6)"
+              - option "June (10)"
+              - option "May (5)"
+              - option "April (7)"
+              - option "March (2)"
+              - option "December (1)"
+              - option "November (3)"
+              - option "October (8)"
+              - option "September (4)"
+              - option "August (2)"
+              - option "July (2)"
+              - option "May (7)"
+              - option "April (4)"
+              - option "March (2)"
+              - option "January (1)"
+              - option "November (1)"
+              - option "October (4)"
+              - option "September (5)"
+              - option "July (13)"
+              - option "June (13)"
+              - option "April (8)"
+              - option "March (10)"
+              - option "February (16)"
+              - option "January (1)"
+              - option "September (1)"
+              - option "August (5)"
+          - generic [ref=e213]:
+            - heading "Tags" [level=2] [ref=e215]
+            - generic [ref=e216]:
+              - link ".NET" [ref=e218] [cursor=pointer]:
+                - /url: https://www.hyrtutorials.com/search/label/.NET?&max-results=6
+              - link "Apache POI" [ref=e220] [cursor=pointer]:
+                - /url: https://www.hyrtutorials.com/search/label/Apache%20POI?&max-results=6
+              - link "AutomationTesting" [ref=e222] [cursor=pointer]:
+                - /url: https://www.hyrtutorials.com/search/label/AutomationTesting?&max-results=6
+              - link "Eclipse" [ref=e224] [cursor=pointer]:
+                - /url: https://www.hyrtutorials.com/search/label/Eclipse?&max-results=6
+              - link "Java" [ref=e226] [cursor=pointer]:
+                - /url: https://www.hyrtutorials.com/search/label/Java?&max-results=6
+              - link "Maven" [ref=e228] [cursor=pointer]:
+                - /url: https://www.hyrtutorials.com/search/label/Maven?&max-results=6
+              - link "Selenium" [ref=e230] [cursor=pointer]:
+                - /url: https://www.hyrtutorials.com/search/label/Selenium?&max-results=6
+              - link "Shorts" [ref=e232] [cursor=pointer]:
+                - /url: https://www.hyrtutorials.com/search/label/Shorts?&max-results=6
+              - link "SQL" [ref=e234] [cursor=pointer]:
+                - /url: https://www.hyrtutorials.com/search/label/SQL?&max-results=6
+              - link "TechNews" [ref=e236] [cursor=pointer]:
+                - /url: https://www.hyrtutorials.com/search/label/TechNews?&max-results=6
+              - link "Testing" [ref=e238] [cursor=pointer]:
+                - /url: https://www.hyrtutorials.com/search/label/Testing?&max-results=6
+              - link "TestNG" [ref=e240] [cursor=pointer]:
+                - /url: https://www.hyrtutorials.com/search/label/TestNG?&max-results=6
+              - link "Tutorials" [ref=e242] [cursor=pointer]:
+                - /url: https://www.hyrtutorials.com/search/label/Tutorials?&max-results=6
+              - link "Web Automation" [ref=e244] [cursor=pointer]:
+                - /url: https://www.hyrtutorials.com/search/label/Web%20Automation?&max-results=6
+              - link "Windows Automation" [ref=e246] [cursor=pointer]:
+                - /url: https://www.hyrtutorials.com/search/label/Windows%20Automation?&max-results=6
+            - insertion [ref=e248]:
+              - iframe [ref=e250]:
+                - iframe [ref=f46e1]:
+                  - generic [ref=f73e3]:
+                    - link [ref=f73e4] [cursor=pointer]:
+                      - /url: //www.admaster.cc/privacy
+                      - img [ref=f73e5]
+                    - link "This Pic Is Not Edited, Look Closer This Pic Is Not Edited, Look Closer App Cute" [ref=f73e7] [cursor=pointer]:
+                      - /url: https://tracenep.admaster.cc/ju/ic?tn=2ce2e6e33746b4224011d22068a89c02&trackingid=5b48ed60b01161af375b6d3bd4e2bffa&acid=31054&data=EgRueoD_qZH6ejs2OFNY1BRXyILmy8yIVKwRKQNWYE-bRMjtLM09X_-TPZOGS5ncbcwwQs09n5RYAd0qUolqRtt9t58VHgXypxFFCYDCVbnsk6Bs--2IrOGpHEUIEjNtz9DmuLboixE_9zN8vlIgoeaP8Hy9qJeV8L6OYW9gnvSeqaswl_FJl3135SEYY8cYmUT6AkE-r6H3LxbdsBmy5veS4Bubk9QWYHv7hLI8UjF_f47NmhBxMkyfzaDYgSqSqTH0UoTOyWl0dfmIwd1oh7QFrzRac8EPmJxeRkw9y79FgdS_Sn71HAz3G8LWua3mF3kI1VM0OeFxJ1hoEPsmN-UqwVIAbvd0xAMpVzkVnT2VI0avjBSF41GLE-WaNO5imCxRmKtg6doxpqa9kxhyF2bFP97ORJ1fYidtxvRAxIMhqqM1IE6VjVpoPKPLJ7F1NBs0IvRum14I7n88AI_CzI6-aFLGNbrzDOY4CrMWfVvWpRbjfFmC0SZG9iP-vI55aUAECFc-KYCzaXrgxpRxJz0xqSuFq7h1FKuY5RVOj1TCgY9hXnBAvYbQgA4G8in03DdGWTUNulWSG-KU5majoxSZ2f0BlwBSAgi-n0DDbfJkbj1uD3RuCFSrtGm2nA_rxdXjH6QKAS5sY57Ec24AkMh8LCv7qAaRyEWE4R_TYHkj9270wA62uNlSwY53K8Jig9NkUWCxrw25Omg-9hR2qzUVQSFtM44DU0DoVjXFJACu8DIwGhzj_lB0CImR1fyD9LobVMnnVcsDNUNgxDg3AQ5Eu68KdryVDBO4TbipjtFTSlcJvC1a2DcCraJKMNNBD2Pz8MmYL6z5B-nkxMQv7a28wngQPldhOccLcnHdwttmep1OuTviHIzzl8VkEtF7KHDI1RhMHNJ7JK18pxL98hfE02G31AuI00kcYmGBmw9VkZcQ_JtA4LF38VuZKjSzBoBOKMq9vGoSXsriWhXpbM_CvzIto7arAgqdvonRy502XaiLvFPJqNEzuuSGaH3G8Tiy2AfC3CBOcu25svW3cKuSxECUQ5v3wx0ySgE9illo3DJlbqlPIfCQJd2j3Gh7hKoJDMo9HwFhSpq7AwsrLP55xepwyNbQoYCivdFHAmmbakyXX74mz0W46L5_ek1M0ejBfXXm5ZeLHAtQe-0cFnFhcCvfHcZTc2bSq7ZP1qre8inra_4Z5_W8KbgkOm9MnkhaNxkUAG5Ixd0-D1rVrBxvpdxhaDL7Zoftv-ZDFc1Az35RrP8rlmmjklZRAZnrP9g9MQ8wNy6woXAMi77ZsaHw-PAEF2PAwosch7arjumzJoZAB2lOs60aFBQQK0nyqU94FqDXHPSkFbPFLLf0GdoMiw6Et6EeDCMvw8NsKUIckswyCg6Oxgtj1bNwdRDtB7RTjgM0RuC3fwLJIsYHAdZeVca8l-Wd9xEfbAluzYJHH55k1dAORbWHQNaKimNLyy0lVlI3jWmdoRfQO3c3eh8bwu_LSxjVeCb8ohM3EU7uGsuzhHfKaN2S3KLxjgGNj9k_K-V5sCDdCZhUpmlbYmRcUVVNoVg0DqGnj-073tcsob5Tr089MLWHMkGgfk3d-N-xbNN4CtQLZnVmjP_p6LXf03KwXPiJzCE-qFNghbw2DRD22keAetpupVdOlf1BGPUCbc9g76csTW5wfFaUfbABpwdFayT8puS1mnblM4l4RrB8ftd71_qNxoVLAL2TzB8CP4N6fUnxy-NqPNuxp4bHoF7gC9zX2FzTXloPqY0u3txWUz6qpYMu68lPZ_H1K6-bbHvun849U3oQCvk_RhSj5vIa4sbtd1clSYXg6HUhwBujND2DoY0d391inkW9A_D3dHDOlMzpz5ozpuBfrka3NqNqoGAOhyu0gCT7daU&uid=mid_63856a3142221b4f1326279689417a76&mguid=&ap=0.010001&tid=72&gprice=fQolPQXVu__sEjnRXZ1WDaNHBgohzkP7fULLkQyzR5k&campaignid=4421282&google_click_url=https://adclick.g.doubleclick.net/aclk%3Fsa%3DL%26ai%3DCKEOdhGxLabylAee74_UPys-LiQ2ltoSEe8z8yrWgE8CNtwEQASCYqMZwYMnm44bIo5AZyAEJqAMByAMCqgSJAk_QcfrkEnNQmv5qelZRF45bbt42omYhIgTRKu_5dxH_rxcgjvtSDitmbqxC6Gjbq3qB-Zn0aK6jMKJNHtbhGKBkrHZdMimd0369Mlve-a9aCzhFI2S-bDnQyrCGBq41zTaYkqKgszFOG9HglZTf7QVaYaPypW3uPk41nBZ8f4zUUD8qW5uTPo_tpCKlVwlQ0GmYB-QQ6EEAneJkJx2xYwu2US1ZgaXUemSLNIgBfO260pgat885DXiBl46ldlZ-D4si0Mx_1la3diB-ghgZSlpUljXf4w4J8Hnu6PlPkVQx2aEz_8WjJ93kNwHDNr0u4iZ5ttZg_dCJCzKmVgqtHjIGF7Cnh9Kp4luABqTHge7ou9nESKAGIagHpr4bqAeW2BuoB6qbsQKoB_-esQKoB9-fsQKoB62-sQKoB7_TsQLYBwDSCCwIgGEQATIIioKAgICAgAg6DYBAgMCAgICAqIACqANIvf3BOljh3cWEstWRA_oLAggBgAwBqg0CVVPqDRMImtTQhLLVkQMV5924CB3K5yLRiA4J0BUBgBcBshcEGAxQAQ%26num%3D1%26sig%3DAOD64_3EDM0HixTeXz0C1nUr44_Q9dPc3g%26client%3Dca-pub-2190203024692607%26adurl%3D
+                      - img "This Pic Is Not Edited, Look Closer" [ref=f73e8]
+                      - heading "This Pic Is Not Edited, Look Closer" [level=3] [ref=f73e9]
+                      - generic [ref=f73e10]: App Cute
+    - insertion [ref=e252]
+    - generic [ref=e255]:
+      - generic [ref=e258]:
+        - heading "Recent Tutorials" [level=2] [ref=e260]
+        - generic [ref=e262]:
+          - generic [ref=e263]:
+            - link [ref=e264] [cursor=pointer]:
+              - /url: https://www.hyrtutorials.com/2023/04/arrays-in-java.html
+            - generic [ref=e266]:
+              - heading "Arrays in Java" [level=3] [ref=e267]:
+                - link "Arrays in Java" [ref=e268] [cursor=pointer]:
+                  - /url: https://www.hyrtutorials.com/2023/04/arrays-in-java.html
+              - text: Yada Giri ReddyApr 16, 2023
+          - generic [ref=e269]:
+            - link [ref=e270] [cursor=pointer]:
+              - /url: https://www.hyrtutorials.com/2023/04/print-the-English-Alphabet-in-Upper-case-and-Lower-case.html
+            - generic [ref=e272]:
+              - heading "Write a java program to print the English Alphabet in Upper case and Lower case" [level=3] [ref=e273]:
+                - link "Write a java program to print the English Alphabet in Upper case and Lower case" [ref=e274] [cursor=pointer]:
+                  - /url: https://www.hyrtutorials.com/2023/04/print-the-English-Alphabet-in-Upper-case-and-Lower-case.html
+              - text: Yada Giri ReddyApr 08, 2023
+          - generic [ref=e275]:
+            - link [ref=e276] [cursor=pointer]:
+              - /url: https://www.hyrtutorials.com/2023/04/factors-of-a-given-number.html
+            - generic [ref=e278]:
+              - heading "Write a java program to print the factors of a given number" [level=3] [ref=e279]:
+                - link "Write a java program to print the factors of a given number" [ref=e280] [cursor=pointer]:
+                  - /url: https://www.hyrtutorials.com/2023/04/factors-of-a-given-number.html
+              - text: Yada Giri ReddyApr 05, 2023
+          - generic [ref=e281]:
+            - link [ref=e282] [cursor=pointer]:
+              - /url: https://www.hyrtutorials.com/2023/04/factorial-of-a-given number.html
+            - generic [ref=e284]:
+              - heading "Write a java program to print the factorial of a given number" [level=3] [ref=e285]:
+                - link "Write a java program to print the factorial of a given number" [ref=e286] [cursor=pointer]:
+                  - /url: https://www.hyrtutorials.com/2023/04/factorial-of-a-given number.html
+              - text: Yada Giri ReddyApr 02, 2023
+          - generic [ref=e287]:
+            - link [ref=e288] [cursor=pointer]:
+              - /url: https://www.hyrtutorials.com/2023/03/sumof-the-even-numbers-ranging-from-8-to-250-using-for-loop.html
+            - generic [ref=e290]:
+              - heading "Write a java program to print the sum of the even numbers ranging from 8 to 250 using for loop" [level=3] [ref=e291]:
+                - link "Write a java program to print the sum of the even numbers ranging from 8 to 250 using for loop" [ref=e292] [cursor=pointer]:
+                  - /url: https://www.hyrtutorials.com/2023/03/sumof-the-even-numbers-ranging-from-8-to-250-using-for-loop.html
+              - text: Yada Giri ReddyMar 30, 2023
+      - generic [ref=e294]:
+        - generic [ref=e295]:
+          - heading "Total Pageviews" [level=2] [ref=e297]
+          - generic [ref=e300]:
+            - strong [ref=e302]: "1"
+            - strong [ref=e305]: "4"
+            - strong [ref=e308]: "0"
+            - strong [ref=e311]: "0"
+            - strong [ref=e314]: "1"
+            - strong [ref=e317]: "2"
+            - strong [ref=e320]: "5"
+            - strong [ref=e323]: "6"
+        - generic [ref=e325]:
+          - heading [level=2] [ref=e327]
+          - list [ref=e329]:
+            - listitem [ref=e330]:
+              - link "How I Get Free Traffic from ChatGPT in 2025 (AIO vs SEO)" [ref=e332] [cursor=pointer]:
+                - /url: https://techncruncher.blogspot.com/2025/12/how-i-get-free-traffic-from-chatgpt-in.html
+              - text: "- 12/3/2025"
+            - listitem [ref=e333]:
+              - 'link "What is Blockchain: Everything You Need to Know (2025)" [ref=e335] [cursor=pointer]':
+                - /url: https://techncruncher.blogspot.com/2025/11/what-is-blockchain-everything-you-need.html
+              - text: "- 11/24/2025"
+            - listitem [ref=e336]:
+              - link "Top 10 AI Tools That Will Transform Your Content Creation in 2025" [ref=e338] [cursor=pointer]:
+                - /url: https://techncruncher.blogspot.com/2025/01/top-10-ai-tools-that-will-transform.html
+              - text: "- 1/2/2025"
+            - listitem [ref=e339]:
+              - 'link "LimeWire AI Studio Review 2023: Details, Pricing & Features" [ref=e341] [cursor=pointer]':
+                - /url: https://techncruncher.blogspot.com/2023/12/limewire-ai-studio-review-2023-details.html
+              - text: "- 12/12/2023"
+            - listitem [ref=e342]:
+              - link "Top 10 AI Tools in 2023 That Will Make Your Life Easier" [ref=e344] [cursor=pointer]:
+                - /url: https://techncruncher.blogspot.com/2023/01/top-10-ai-tools-in-2023-that-will-make.html
+              - text: "- 1/25/2023"
+      - generic [ref=e346]:
+        - generic [ref=e347]:
+          - heading "Connect With us" [level=2] [ref=e349]
+          - list [ref=e351]:
+            - listitem [ref=e352]:
+              - link "" [ref=e353] [cursor=pointer]:
+                - /url: https://facebook.com/HYRTutorials
+                - generic [ref=e354]: 
+            - listitem [ref=e355]:
+              - link "" [ref=e356] [cursor=pointer]:
+                - /url: https://github.com/YadaGiriReddy/HYR-Tutorials
+                - generic [ref=e357]: 
+            - listitem [ref=e358]:
+              - link "" [ref=e359] [cursor=pointer]:
+                - /url: https://www.instagram.com/hyrtutorials
+                - generic [ref=e360]: 
+            - listitem [ref=e361]:
+              - link "" [ref=e362] [cursor=pointer]:
+                - /url: https://linkedin.com/company/hyrtutorials
+                - generic [ref=e363]: 
+            - listitem [ref=e364]:
+              - link "" [ref=e365] [cursor=pointer]:
+                - /url: https://t.me/hyrtutorials
+                - generic [ref=e366]: 
+            - listitem [ref=e367]:
+              - link "" [ref=e368] [cursor=pointer]:
+                - /url: https://youtube.com/hyrtutorials
+                - generic [ref=e369]: 
+        - generic [ref=e370]:
+          - heading "Categories" [level=2] [ref=e372]
+          - generic [ref=e373]:
+            - link "Tutorials" [ref=e375] [cursor=pointer]:
+              - /url: https://www.hyrtutorials.com/search/label/Tutorials?&max-results=6
+            - link "Java" [ref=e377] [cursor=pointer]:
+              - /url: https://www.hyrtutorials.com/search/label/Java?&max-results=6
+            - link "Testing" [ref=e379] [cursor=pointer]:
+              - /url: https://www.hyrtutorials.com/search/label/Testing?&max-results=6
+            - link "AutomationTesting" [ref=e381] [cursor=pointer]:
+              - /url: https://www.hyrtutorials.com/search/label/AutomationTesting?&max-results=6
+            - link "Web Automation" [ref=e383] [cursor=pointer]:
+              - /url: https://www.hyrtutorials.com/search/label/Web%20Automation?&max-results=6
+            - link "TechNews" [ref=e385] [cursor=pointer]:
+              - /url: https://www.hyrtutorials.com/search/label/TechNews?&max-results=6
+            - link "Selenium" [ref=e387] [cursor=pointer]:
+              - /url: https://www.hyrtutorials.com/search/label/Selenium?&max-results=6
+            - link "Shorts" [ref=e389] [cursor=pointer]:
+              - /url: https://www.hyrtutorials.com/search/label/Shorts?&max-results=6
+            - link "TestNG" [ref=e391] [cursor=pointer]:
+              - /url: https://www.hyrtutorials.com/search/label/TestNG?&max-results=6
+            - link "SQL" [ref=e393] [cursor=pointer]:
+              - /url: https://www.hyrtutorials.com/search/label/SQL?&max-results=6
+            - link "Eclipse" [ref=e395] [cursor=pointer]:
+              - /url: https://www.hyrtutorials.com/search/label/Eclipse?&max-results=6
+            - link "Maven" [ref=e397] [cursor=pointer]:
+              - /url: https://www.hyrtutorials.com/search/label/Maven?&max-results=6
+            - link "Apache POI" [ref=e399] [cursor=pointer]:
+              - /url: https://www.hyrtutorials.com/search/label/Apache%20POI?&max-results=6
+            - link ".NET" [ref=e401] [cursor=pointer]:
+              - /url: https://www.hyrtutorials.com/search/label/.NET?&max-results=6
+            - link "Windows Automation" [ref=e403] [cursor=pointer]:
+              - /url: https://www.hyrtutorials.com/search/label/Windows%20Automation?&max-results=6
+    - insertion [ref=e405]
+    - generic [ref=e408]:
+      - generic [ref=e409]:
+        - text: Copyrights @ H Y R Tutorials - Designed by
+        - link "Yada Giri Reddy" [ref=e410] [cursor=pointer]:
+          - /url: https://www.linkedin.com/in/hyadagirireddy/
+      - generic [ref=e411]:
+        - text: Crafted with  by
+        - link "TemplatesYard" [ref=e412] [cursor=pointer]:
+          - /url: http://www.templatesyard.com/
+        - text: "| Distributed by"
+        - link "Blogger Themes" [ref=e413] [cursor=pointer]:
+          - /url: http://www.mybloggerthemes.com/
+    - text: 
+  - iframe [ref=e414]:
+    
+```

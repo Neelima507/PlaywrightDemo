@@ -1,0 +1,119 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - table [ref=e4]:
+    - rowgroup [ref=e5]:
+      - row "Sign Off | Contact Us | Feedback | Search Go" [ref=e6]:
+        - cell [ref=e7]:
+          - link [ref=e8] [cursor=pointer]:
+            - /url: /index.jsp
+            - img [ref=e9]
+        - cell "Sign Off | Contact Us | Feedback | Search Go" [ref=e10]:
+          - link "Sign Off" [ref=e11] [cursor=pointer]:
+            - /url: /logout.jsp
+          - text: "|"
+          - link "Contact Us" [ref=e12] [cursor=pointer]:
+            - /url: /index.jsp?content=inside_contact.htm
+          - text: "|"
+          - link "Feedback" [ref=e13] [cursor=pointer]:
+            - /url: /feedback.jsp
+          - text: "| Search"
+          - textbox [ref=e14]
+          - button "Go" [ref=e15]
+      - row [ref=e16]:
+        - cell [ref=e17]
+  - table [ref=e18]:
+    - rowgroup [ref=e19]:
+      - row "Secure Login MY ACCOUNT PERSONAL SMALL BUSINESS INSIDE ALTORO MUTUAL" [ref=e20]:
+        - cell "Secure Login MY ACCOUNT" [ref=e21]:
+          - generic [ref=e22]:
+            - img "Secure Login" [ref=e23]
+            - link "MY ACCOUNT" [ref=e24] [cursor=pointer]:
+              - /url: /bank/main.jsp
+        - cell "PERSONAL" [ref=e25]:
+          - link "PERSONAL" [ref=e27] [cursor=pointer]:
+            - /url: /index.jsp?content=personal.htm
+        - cell "SMALL BUSINESS" [ref=e28]:
+          - link "SMALL BUSINESS" [ref=e30] [cursor=pointer]:
+            - /url: /index.jsp?content=business.htm
+        - cell "INSIDE ALTORO MUTUAL" [ref=e31]:
+          - link "INSIDE ALTORO MUTUAL" [ref=e33] [cursor=pointer]:
+            - /url: /index.jsp?content=inside.htm
+      - row
+  - table [ref=e34]:
+    - rowgroup [ref=e35]:
+      - 'row "I WANT TO ... View Account Summary View Recent Transactions Transfer Funds Search News Articles Customize Site Language Hello John Smith Welcome to Altoro Mutual Online. View Account Details: 800003 Checking GO Congratulations! You have been pre-approved for an Altoro Gold Visa with a credit limit of $10000! Click Here to apply." [ref=e36]':
+        - cell "I WANT TO ... View Account Summary View Recent Transactions Transfer Funds Search News Articles Customize Site Language" [ref=e37]:
+          - text: I WANT TO ...
+          - list [ref=e38]:
+            - listitem [ref=e39]:
+              - link "View Account Summary" [ref=e40] [cursor=pointer]:
+                - /url: /bank/main.jsp
+            - listitem [ref=e41]:
+              - link "View Recent Transactions" [ref=e42] [cursor=pointer]:
+                - /url: /bank/transaction.jsp
+            - listitem [ref=e43]:
+              - link "Transfer Funds" [ref=e44] [cursor=pointer]:
+                - /url: /bank/transfer.jsp
+            - listitem [ref=e45]:
+              - link "Search News Articles" [ref=e46] [cursor=pointer]:
+                - /url: /bank/queryxpath.jsp
+            - listitem [ref=e47]:
+              - link "Customize Site Language" [ref=e48] [cursor=pointer]:
+                - /url: /bank/customize.jsp
+        - 'cell "Hello John Smith Welcome to Altoro Mutual Online. View Account Details: 800003 Checking GO Congratulations! You have been pre-approved for an Altoro Gold Visa with a credit limit of $10000! Click Here to apply." [ref=e49]':
+          - generic [ref=e50]:
+            - heading "Hello John Smith" [level=1] [ref=e51]
+            - paragraph [ref=e52]: Welcome to Altoro Mutual Online.
+            - table [ref=e54]:
+              - rowgroup [ref=e55]:
+                - 'row "View Account Details: 800003 Checking GO" [ref=e56]':
+                  - cell "View Account Details:" [ref=e57]
+                  - cell "800003 Checking GO" [ref=e58]:
+                    - combobox [ref=e59]:
+                      - option "800002 Savings"
+                      - option "800003 Checking" [selected]
+                      - option "4539082039396288 Credit Card"
+                    - button "GO" [ref=e60]
+                - row "Congratulations! You have been pre-approved for an Altoro Gold Visa with a credit limit of $10000! Click Here to apply." [ref=e61]:
+                  - cell "Congratulations! You have been pre-approved for an Altoro Gold Visa with a credit limit of $10000! Click Here to apply." [ref=e62]:
+                    - table [ref=e64]:
+                      - rowgroup [ref=e65]:
+                        - row "Congratulations!" [ref=e66]:
+                          - cell "Congratulations!" [ref=e67]:
+                            - heading "Congratulations!" [level=2] [ref=e68]
+                        - row "You have been pre-approved for an Altoro Gold Visa with a credit limit of $10000!" [ref=e69]:
+                          - cell "You have been pre-approved for an Altoro Gold Visa with a credit limit of $10000!" [ref=e70]
+                        - row "Click Here to apply." [ref=e71]:
+                          - cell "Click Here to apply." [ref=e72]:
+                            - text: Click
+                            - link "Here" [ref=e73] [cursor=pointer]:
+                              - /url: apply.jsp
+                            - text: to apply.
+  - generic [ref=e74]:
+    - link "Privacy Policy" [ref=e75] [cursor=pointer]:
+      - /url: /index.jsp?content=privacy.htm
+    - text: "|"
+    - link "Security Statement" [ref=e76] [cursor=pointer]:
+      - /url: /index.jsp?content=security.htm
+    - text: "|"
+    - link "Server Status Check" [ref=e77] [cursor=pointer]:
+      - /url: /status_check.jsp
+    - text: "|"
+    - link "REST API" [ref=e78] [cursor=pointer]:
+      - /url: /swagger/index.html
+    - text: "| © 2025 Altoro Mutual, Inc."
+    - generic [ref=e79]:
+      - text: This web application is open source!
+      - generic [ref=e80]:
+        - link "Get your copy from GitHub" [ref=e81] [cursor=pointer]:
+          - /url: https://github.com/AppSecDev/AltoroJ/
+        - text: and take advantage of advanced features
+    - generic [ref=e82]:
+      - text: The AltoroJ website is published by HCL Technologies, Ltd. for the sole purpose of demonstrating the effectiveness of HCL products in detecting web application vulnerabilities and website defects. This site is not a real banking site. Similarities, if any, to third party products and/or websites are purely coincidental. This site is provided "as is" without warranty of any kind, either express or implied. HCL does not assume any risk in relation to your use of this website. For more information, please go to
+      - link "https://www.hcl-software.com/appscan/" [ref=e83] [cursor=pointer]:
+        - /url: https://www.hcl-software.com/appscan/
+      - text: .
+      - text: Copyright © 2008, 2017, IBM Corporation, All rights reserved. Copyright © 2017, 2025, HCL Technologies, Ltd., All rights reserved.
+```

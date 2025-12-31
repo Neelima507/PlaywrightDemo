@@ -1,0 +1,6 @@
+Hello John Smith
+		  
+dropTexts  [ '800002 Savings', '800003 Checking', '4539082039396288 Credit Card' ]
+800002 Savings
+800003 Checking
+4539082039396288 Credit Card
